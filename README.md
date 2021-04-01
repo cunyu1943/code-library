@@ -40,6 +40,14 @@
 # ☕ Java
 ## 🔬 教程
 
+-   [On Java 8](https://lingcoder.github.io/OnJava8/#/)
+-   [JavaGuide: 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！](https://github.com/Snailclimb/JavaGuide)
+-   [LearningNotes](https://github.com/francistao/LearningNotes)
+-   [java-learning: 旨在打造在线最佳的 Java 学习笔记，含博客讲解和源码实例，包括 Java SE 和 Java Web ](https://github.com/brianway/java-learning)
+-   [LearningJDK: JDK源码阅读笔记](https://github.com/kangjianwei/LearningJDK)
+-   [JavaSourceCodeLearning: Java流行框架源码分析：Spring源码、SpringBoot源码、SpringAOP源码、SpringSecurity源码、SpringSecurity OAuth2源码、JDK源码、Netty源码](https://github.com/coderbruis/JavaSourceCodeLearning)
+-   [tutorials: Just Announced - "Learn Spring Security OAuth"](https://github.com/eugenp/tutorials)
+-   [SpringAll: 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码](https://github.com/wuyouzhuguli/SpringAll)
 -   [How2J 的 Java教程](https://how2j.cn/)
 -   [Learn Java - Free Interactive Java Tutorial](https://www.learnjavaonline.org/)
 -   [蚂蚁课堂-课程列表](http://www.mayikt.com/freeOrMember?status=0)
@@ -48,8 +56,8 @@
 
 -   [MCMS: 完整开源！基于SpringBoot 2架构，前端基于vue、element ui。每月28定期更新版本，为开发者提供上百套免费模板,同时提供适用的插件（文章、商城、微信、论坛、会员、评论、支付、积分、工作流、任务调度等...），一套简单好用的开源系统、一整套优质的开源生态内容体系。铭飞的使命就是降低开发成本提高开发效率，提供全方位的企业级开发解决方案 ](https://gitee.com/mingSoft/MCMS)
 
--   [macrozheng/mall-learning: mall学习教程，架构、业务、技术要点全方位解析。mall项目（40k+star）是一套电商系统，使用现阶段主流技术实现。涵盖了SpringBoot 2.3.0、MyBatis 3.4.6、Elasticsearch 7.6.2、RabbitMQ 3.7.15、Redis 5.0、MongoDB 4.2.5、Mysql5.7等技术，采用Docker容器化部署。](https://github.com/macrozheng/mall-learning)
--   [qiurunze123/miaosha: ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓](https://github.com/qiurunze123/miaosha)
+-   [mall-learning: mall学习教程，架构、业务、技术要点全方位解析。mall项目（40k+star）是一套电商系统，使用现阶段主流技术实现。涵盖了SpringBoot 2.3.0、MyBatis 3.4.6、Elasticsearch 7.6.2、RabbitMQ 3.7.15、Redis 5.0、MongoDB 4.2.5、Mysql5.7等技术，采用Docker容器化部署。](https://github.com/macrozheng/mall-learning)
+-   [miaosha: ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓](https://github.com/qiurunze123/miaosha)
 
 # 🐍 Python
 
@@ -70,9 +78,26 @@
 # 🐋 C++
 ## 🔬 教程
 ## ⏳ 项目
+# 👒 数据结构与算法
+
+-   [LeetCodeAnimation:用动画的形式呈现解LeetCode题目的思路](https://github.com/MisterBooo/LeetCodeAnimation)
+-   [fucking-algorithm: 刷算法全靠套路，认准 labuladong 就够了！](https://github.com/labuladong/fucking-algorithm)
+-   [hello-algorithm: 🌍「算法面试+算法知识」针对小白的算法训练 | 还包括：1、阿里、字节、滴滴 百篇大厂面经汇总 2、千本开源电子书 3、百张思维导图](https://github.com/geekxh/hello-algorithm)
+
 # 👣 Linux
-## 🔬 教程
-## ⏳ 项目
+
+-   [鸟哥的 Linux 私房菜 -- 鸟哥的 Linux 私房菜](http://linux.vbird.org/)
+
+# 🎓 Git
+
+-   [LearnGitBranching](https://learngitbranching.js.org/)
+-   [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/)
+-   [first-contributions: 🚀✨ Help beginners to contribute to open source projects](https://github.com/firstcontributions/first-contributions)
+
+# 🎼 人工智能
+
+-   [机器学习速成课程  | Google Developers](https://developers.google.cn/machine-learning/crash-course)
+-   [《动手学深度学习》](https://zh-v2.d2l.ai/)
 
 # 📞 联系我
 
