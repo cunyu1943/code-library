@@ -8,9 +8,11 @@
 
 我的其他项目，欢迎 **Star** 收藏：
 
-| CS-Docs                                                      | amazing-websites                                             | amazing-books                                                |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![cs-docs](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=cs-docs&theme=dark)](https://github.com/cunyu1943/cs-docs) | [![amazing-websites](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=amazing-websites&theme=dark)](https://github.com/cunyu1943/amazing-websites) | [![amazing-books](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=amazing-books&theme=dark)](https://github.com/cunyu1943/amazing-books) |
+|[![cs-docs](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=cs-docs&theme=dark)](https://github.com/cunyu1943/cs-docs)|[![amazing-websites](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=amazing-websites&theme=dark)](https://github.com/cunyu1943/amazing-websites)      |
+| ---- | ---- |
+|[![amazing-books](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=amazing-books&theme=dark)](https://github.com/cunyu1943/amazing-books)|[![amazing-softwares](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=amazing-softwares&theme=dark)](https://github.com/cunyu1943/amazing-softwares)      |
+
+
 
 # 🚩 简介
 
@@ -37,11 +39,31 @@
 
 # ☕ Java
 ## 🔬 教程
+
+-   [How2J 的 Java教程](https://how2j.cn/)
+-   [Learn Java - Free Interactive Java Tutorial](https://www.learnjavaonline.org/)
+-   [蚂蚁课堂-课程列表](http://www.mayikt.com/freeOrMember?status=0)
+
 ## ⏳ 项目
+
+-   [MCMS: 完整开源！基于SpringBoot 2架构，前端基于vue、element ui。每月28定期更新版本，为开发者提供上百套免费模板,同时提供适用的插件（文章、商城、微信、论坛、会员、评论、支付、积分、工作流、任务调度等...），一套简单好用的开源系统、一整套优质的开源生态内容体系。铭飞的使命就是降低开发成本提高开发效率，提供全方位的企业级开发解决方案 ](https://gitee.com/mingSoft/MCMS)
+
+-   [macrozheng/mall-learning: mall学习教程，架构、业务、技术要点全方位解析。mall项目（40k+star）是一套电商系统，使用现阶段主流技术实现。涵盖了SpringBoot 2.3.0、MyBatis 3.4.6、Elasticsearch 7.6.2、RabbitMQ 3.7.15、Redis 5.0、MongoDB 4.2.5、Mysql5.7等技术，采用Docker容器化部署。](https://github.com/macrozheng/mall-learning)
+-   [qiurunze123/miaosha: ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓](https://github.com/qiurunze123/miaosha)
+
 # 🐍 Python
+
 ## 🔬 教程
+
+-   [莫烦Python](https://mofanpy.com/)
+-   [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/)
+-   [Python123 - 编程更简单](https://python123.io/)
+-   [花了2万多买的Python教程全套，现在分享给大家，入门到精通(Python全栈开发教程)](https://www.bilibili.com/video/BV1wD4y1o7AS)
+
 ## ⏳ 项目
+
 # 👻 C
+
 ## 🔬 教程
 ## ⏳ 项目
 # 🐋 C++
