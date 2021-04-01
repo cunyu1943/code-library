@@ -59,6 +59,7 @@
 -   [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/)
 -   [Python123 - 编程更简单](https://python123.io/)
 -   [花了2万多买的Python教程全套，现在分享给大家，入门到精通(Python全栈开发教程)](https://www.bilibili.com/video/BV1wD4y1o7AS)
+-   [Python 数据分析视频](https://shimo.im/docs/36pykCPH6XCjKJcv/read)
 
 ## ⏳ 项目
 
