@@ -128,7 +128,7 @@
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=bisguzar&repo=twitter-scraper&theme=dark)](https://github.com/bisguzar/twitter-scraper) | [![](https://github-readme-stats.vercel.app/api/pin/?username=TwoWater&repo=Python&theme=dark)](https://github.com/TwoWater/Python) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=bisguzar&repo=twitter-scraper&theme=dark)](https://github.com/bisguzar/twitter-scraper) | [![](https://github-readme-stats.vercel.app/api/pin/?username=sylnsfar&repo=qrcode&theme=dark)](https://github.com/sylnsfar/qrcode) |
 
 
 
