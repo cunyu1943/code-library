@@ -84,7 +84,7 @@
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=macrozheng&repo=mall-swarm&theme=dark)](https://github.com/macrozheng/mall-swarm) | [![](https://github-readme-stats.vercel.app/api/pin/?username=linlinjava&repo=litemall&theme=dark)](https://github.com/linlinjava/litemall) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=hfbin&repo=Seckill&theme=dark)](https://github.com/hfbin/Seckill) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Exrick&repo=xmall&theme=dark)](https://github.com/Exrick/xmall) |
 
-### 🏃‍♂️ 博客论坛
+### 🏃‍♂️ 博客/论坛
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -94,6 +94,8 @@
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=lenve&repo=VBlog&theme=dark)](https://github.com/lenve/VBlog) | [![](https://github-readme-stats.vercel.app/api/pin/?username=lenve&repo=vhr&theme=dark)](https://github.com/lenve/vhr) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=yourkevin&repo=NiterForum&theme=dark)](https://github.com/yourkevin/NiterForum) | [![](https://github-readme-stats.vercel.app/api/pin/?username=codedrinker&repo=community&theme=dark)](https://github.com/codedrinker/community) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=cloudfavorites&repo=favorites-web&theme=dark)](https://github.com/cloudfavorites/favorites-web) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Qbian61&repo=forum-java&theme=dark)](https://github.com/Qbian61/forum-java) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=mindskip&repo=xzs&theme=dark)](https://github.com/mindskip/xzs) | [![](https://github-readme-stats.vercel.app/api/pin/?username=mindskip&repo=xzs-mysql&theme=dark)](https://github.com/mindskip/xzs-mysql) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=Jackson0714&repo=PassJava-Platform&theme=dark)](https://github.com/Jackson0714/PassJava-Platform) |                                                              |
 
 ### 🔧 脚手架
 
