@@ -8,9 +8,10 @@
 
 我的其他项目，欢迎 **Star** 收藏：
 
-|[![cs-docs](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=cs-docs&theme=dark)](https://github.com/cunyu1943/cs-docs)|[![amazing-websites](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=amazing-websites&theme=dark)](https://github.com/cunyu1943/amazing-websites)      |
-| ---- | ---- |
-|[![amazing-books](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=amazing-books&theme=dark)](https://github.com/cunyu1943/amazing-books)|[![amazing-softwares](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=amazing-softwares&theme=dark)](https://github.com/cunyu1943/amazing-softwares)      |
+|                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![cs-docs](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=cs-docs&theme=dark)](https://github.com/cunyu1943/cs-docs) | [![amazing-websites](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=amazing-websites&theme=dark)](https://github.com/cunyu1943/amazing-websites) |
+| [![amazing-books](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=amazing-books&theme=dark)](https://github.com/cunyu1943/amazing-books) | [![amazing-softwares](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=amazing-softwares&theme=dark)](https://github.com/cunyu1943/amazing-softwares) |
 
 
 
@@ -37,6 +38,15 @@
 
 >  善用 Ctrl + F 快捷方式，资源排名不分先后，取决于添加的时间 ~
 
+# 💻 计算机基础
+
+|                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=CyC2018&repo=CS-Notes&theme=dark)](https://github.com/CyC2018/CS-Notes) | [![](https://github-readme-stats.vercel.app/api/pin/?username=wolverinn&repo=Waking-Up&theme=dark)](https://github.com/wolverinn/Waking-Up/) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=frank-lam&repo=fullstack-tutorial&theme=dark)](https://github.com/frank-lam/fullstack-tutorial) | [![](https://github-readme-stats.vercel.app/api/pin/?username=0voice&repo=interview_internal_reference&theme=dark)](https://github.com/0voice/interview_internal_reference) |
+
+
+
 # ☕ Java
 
 ## 🔬 教程
@@ -46,10 +56,20 @@
 | [How2J 的 Java教程](https://how2j.cn/)                       | [蚂蚁课堂-课程列表](http://www.mayikt.com/freeOrMember?status=0) |
 | [Learn Java - Free Interactive Java Tutorial](https://www.learnjavaonline.org/) | [Java教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1252599548343744) |
 | [Java 教程 \| 菜鸟教程](https://www.runoob.com/java/java-tutorial.html) | [Java Tutorial](https://fresh2refresh.com/java-tutorial/)    |
-| [![onJava8](https://github-readme-stats.vercel.app/api/pin/?username=lingcoder&repo=onJava8&theme=dark)](https://github.com/lingcoder/onJava8/) | [![JavaGuide](https://github-readme-stats.vercel.app/api/pin/?username=Snailclimb&repo=JavaGuide&theme=dark)](https://github.com/Snailclimb/JavaGuide) |
-| [![tutorials](https://github-readme-stats.vercel.app/api/pin/?username=eugenp&repo=tutorials&theme=dark)](https://github.com/eugenp/tutorials) | [![JavaSourceCodeLearning](https://github-readme-stats.vercel.app/api/pin/?username=coderbruis&repo=JavaSourceCodeLearning&theme=dark)](https://github.com/coderbruis/JavaSourceCodeLearning) |
-| [![LearningJDK](https://github-readme-stats.vercel.app/api/pin/?username=kangjianwei&repo=LearningJDK&theme=dark)](https://github.com/kangjianwei/LearningJDK) | [![LearningNotes](https://github-readme-stats.vercel.app/api/pin/?username=francistao&repo=LearningNotes&theme=dark)](https://github.com/francistao/LearningNotes) |
-| [![java-learning](https://github-readme-stats.vercel.app/api/pin/?username=brianway&repo=java-learning&theme=dark)](https://github.com/brianway/java-learning) | [![SpringAll](https://github-readme-stats.vercel.app/api/pin/?username=wuyouzhuguli&repo=SpringAll&theme=dark)](https://github.com/wuyouzhuguli/SpringAll) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=lingcoder&repo=onJava8&theme=dark)](https://github.com/lingcoder/onJava8/) | [![](https://github-readme-stats.vercel.app/api/pin/?username=PotoYang&repo=spring-in-action-v5-translate&theme=dark)](https://github.com/PotoYang/spring-in-action-v5-translate) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=Snailclimb&repo=JavaGuide&theme=dark)](https://github.com/Snailclimb/JavaGuide) | [![](https://github-readme-stats.vercel.app/api/pin/?username=CodingDocs&repo=springboot-guide&theme=dark)](https://github.com/CodingDocs/springboot-guide) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=YunaiV&repo=SpringBoot-Labs&theme=dark)](https://github.com/YunaiV/SpringBoot-Labs/) | [![](https://github-readme-stats.vercel.app/api/pin/?username=wuyouzhuguli&repo=SpringAll&theme=dark)](https://github.com/wuyouzhuguli/SpringAll/) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=xkcoding&repo=spring-boot-demo&theme=dark)](https://github.com/xkcoding/spring-boot-demo) | [![](https://github-readme-stats.vercel.app/api/pin/?username=JeffLi1993&repo=springboot-learning-example&theme=dark)](https://github.com/JeffLi1993/springboot-learning-example) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=hollischuang&repo=toBeTopJavaer&theme=dark)](https://github.com/hollischuang/toBeTopJavaer/) | [![](https://github-readme-stats.vercel.app/api/pin/?username=doocs&repo=advanced-java&theme=dark)](https://github.com/doocs/advanced-java) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=AobingJava&repo=JavaFamily&theme=dark)](https://github.com/AobingJava/JavaFamily) | [![](https://github-readme-stats.vercel.app/api/pin/?username=ZhongFuCheng3y&repo=3y&theme=dark)](https://github.com/ZhongFuCheng3y/3y) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=xingshaocheng&repo=architect-awesome&theme=dark)](https://github.com/xingshaocheng/architect-awesome) | [![](https://github-readme-stats.vercel.app/api/pin/?username=aalansehaiyang&repo=technology-talk&theme=dark)](https://github.com/aalansehaiyang/technology-talk) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=eugenp&repo=tutorials&theme=dark)](https://github.com/eugenp/tutorials) | [![](https://github-readme-stats.vercel.app/api/pin/?username=crossoverJie&repo=JCSprout&theme=dark)](https://github.com/crossoverJie/JCSprout) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=javagrowing&repo=JGrowing&theme=dark)](https://github.com/javagrowing/JGrowing) | [![tutorials](https://github-readme-stats.vercel.app/api/pin/?username=eugenp&repo=tutorials&theme=dark)](https://github.com/eugenp/tutorials) |
+| [![java-learning](https://github-readme-stats.vercel.app/api/pin/?username=brianway&repo=java-learning&theme=dark)](https://github.com/brianway/java-learning) | [![](https://github-readme-stats.vercel.app/api/pin/?username=iluwatar&repo=java-design-patterns&theme=dark)](https://github.com/iluwatar/java-design-patterns) |
+| [![LearningJDK](https://github-readme-stats.vercel.app/api/pin/?username=kangjianwei&repo=LearningJDK&theme=dark)](https://github.com/kangjianwei/LearningJDK) | [![JavaSourceCodeLearning](https://github-readme-stats.vercel.app/api/pin/?username=coderbruis&repo=JavaSourceCodeLearning&theme=dark)](https://github.com/coderbruis/JavaSourceCodeLearning) |
+| [![LearningNotes](https://github-readme-stats.vercel.app/api/pin/?username=francistao&repo=LearningNotes&theme=dark)](https://github.com/francistao/LearningNotes) | [![](https://github-readme-stats.vercel.app/api/pin/?username=forezp&repo=SpringCloudLearning&theme=dark)](https://github.com/forezp/SpringCloudLearning) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=dyc87112&repo=SpringCloud-Learning&theme=dark)](https://github.com/dyc87112/SpringCloud-Learning) | [![](https://github-readme-stats.vercel.app/api/pin/?username=yinjihuan&repo=spring-cloud&theme=dark)](https://github.com/yinjihuan/spring-cloud) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=ityouknow&repo=spring-cloud-examples&theme=dark)](https://github.com/ityouknow/spring-cloud-examples) | [![](https://github-readme-stats.vercel.app/api/pin/?username=zhoutaoo&repo=SpringCloud&theme=dark)](https://github.com/zhoutaoo/SpringCloud) |
 | [![mall-learning](https://github-readme-stats.vercel.app/api/pin/?username=macrozheng&repo=mall-learning&theme=dark)](https://github.com/macrozheng/mall-learning) |                                                              |
 
 ## ⏳ 项目
@@ -129,13 +149,15 @@
 
 ## ⏳ 项目
 
-# 👒 数据结构与算法
+# 👒 数据结构/算法
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=MisterBooo&repo=LeetCodeAnimation&theme=dark)](https://github.com/MisterBooo/LeetCodeAnimation) | [![](https://github-readme-stats.vercel.app/api/pin/?username=labuladong&repo=fucking-algorithm&theme=dark)](https://github.com/labuladong/fucking-algorithm) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=geekxh&repo=hello-algorithm&theme=dark)](https://github.com/geekxh/hello-algorithm) | [![](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Java&theme=dark)](https://github.com/TheAlgorithms/Java) |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=halfrost&repo=LeetCode-Go&theme=dark)](https://github.com/halfrost/LeetCode-Go) |                                                              |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=halfrost&repo=LeetCode-Go&theme=dark)](https://github.com/halfrost/LeetCode-Go) | [![](https://github-readme-stats.vercel.app/api/pin/?username=billryan&repo=algorithm-exercise&theme=dark)](https://github.com/billryan/algorithm-exercise) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=liweiwei1419&repo=LeetCode-Solutions-in-Good-Style&theme=dark)](https://github.com/liweiwei1419/LeetCode-Solutions-in-Good-Style) | [![](https://github-readme-stats.vercel.app/api/pin/?username=doocs&repo=leetcode&theme=dark)](https://github.com/doocs/leetcode) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=Xunzhuo&repo=Algorithm-Guide&theme=dark)](https://github.com/Xunzhuo/Algorithm-Guide) |                                                              |
 
 # 👣 Linux
 
@@ -145,6 +167,7 @@
 | [Linux 教程_w3cschool](https://www.w3cschool.cn/linux/)      | [Linux 命令基础入门_Linux - 蓝桥云课](https://www.lanqiao.cn/courses/68) |
 | [Linux 基础入门_Linux - 蓝桥云课](https://www.lanqiao.cn/courses/1) | [Linux 运维新手入门课_Linux - 蓝桥云课](https://www.lanqiao.cn/courses/1403) |
 | [Linux学习教程，Linux入门教程](https://xinbaoku.com/linux_tutorial) |                                                              |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=yeasy&repo=docker_practice&theme=dark)](https://github.com/yeasy/docker_practice) |                                                              |
 
 # 🎓 Git
 
@@ -159,6 +182,8 @@
 | ------------------------------------------------------------ | ------------------------------------------- |
 | [机器学习速成课程  \| Google Developers](https://developers.google.cn/machine-learning/crash-course) | [《动手学深度学习》](https://zh-v2.d2l.ai/) |
 |                                                              |                                             |
+
+# 
 
 # 📞 联系我
 
@@ -208,3 +233,4 @@
 2.  [Mdnice](https://www.mdnice.com/)：Markdown 转微信格式；
 3.  [路过图床](https://imgchr.com/)：免费图床；
 4.  [Docsify](https://docsify.js.org/#/)：网站搭建工具；
+5.  [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)：Get dynamically generated GitHub stats on your readmes!
