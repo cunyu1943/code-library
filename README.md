@@ -64,8 +64,9 @@
 
 ### 🏃‍♂️ 博客论坛
 
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=halo-dev&repo=halo&theme=dark)](https://github.com/halo-dev/halo) | [![](https://github-readme-stats.vercel.app/api/pin/?username=langhsu&repo=mblog&theme=dark)](https://github.com/langhsu/mblog) |
+|                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=halo-dev&repo=halo&theme=dark)](https://github.com/halo-dev/halo) | [![](https://github-readme-stats.vercel.app/api/pin/?username=langhsu&repo=mblog&theme=dark)](https://github.com/langhsu/mblog) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=ZHENFENG13&repo=My-Blog&theme=dark)](https://github.com/ZHENFENG13/My-Blog) | [![](https://github-readme-stats.vercel.app/api/pin/?username=ZHENFENG13&repo=My-Blog-layui&theme=dark)](https://github.com/ZHENFENG13/My-Blog-layui) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=88250&repo=symphony&theme=dark)](https://github.com/88250/symphony) | [![](https://github-readme-stats.vercel.app/api/pin/?username=damoqiongqiu&repo=NiceFish&theme=dark)](https://github.com/damoqiongqiu/NiceFish) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=lenve&repo=VBlog&theme=dark)](https://github.com/lenve/VBlog) | [![](https://github-readme-stats.vercel.app/api/pin/?username=lenve&repo=vhr&theme=dark)](https://github.com/lenve/vhr) |
@@ -76,8 +77,9 @@
 
 ## 🔬 教程
 
-| [莫烦Python](https://mofanpy.com/)                           | [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/) |
+|                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [莫烦Python](https://mofanpy.com/)                           | [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/) |
 | [Python123 - 编程更简单](https://python123.io/)              | [Python 数据分析视频](https://shimo.im/docs/36pykCPH6XCjKJcv/read) |
 | [价值2万多的Python教程全套](https://www.bilibili.com/video/BV1wD4y1o7AS) | [Python教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1016959663602400) |
 | [Python3 教程 \| 菜鸟教程](https://www.runoob.com/python3/python3-tutorial.html) | [Python Tutorial](https://fresh2refresh.com/python-tutorial/) |
