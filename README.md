@@ -47,7 +47,7 @@
 | [![LearningJDK](https://github-readme-stats.vercel.app/api/pin/?username=kangjianwei&repo=LearningJDK&theme=dark)](https://github.com/kangjianwei/LearningJDK) | [![LearningNotes](https://github-readme-stats.vercel.app/api/pin/?username=francistao&repo=LearningNotes&theme=dark)](https://github.com/francistao/LearningNotes) |
 | [![java-learning](https://github-readme-stats.vercel.app/api/pin/?username=brianway&repo=java-learning&theme=dark)](https://github.com/brianway/java-learning) | [![SpringAll](https://github-readme-stats.vercel.app/api/pin/?username=wuyouzhuguli&repo=SpringAll&theme=dark)](https://github.com/wuyouzhuguli/SpringAll) |
 | [How2J 的 Java教程](https://how2j.cn/)                       | [蚂蚁课堂-课程列表](http://www.mayikt.com/freeOrMember?status=0) |
-| [Learn Java - Free Interactive Java Tutorial (learnjavaonline.org)](https://www.learnjavaonline.org/) |                                                              |
+| [Learn Java - Free Interactive Java Tutorial](https://www.learnjavaonline.org/) |                                                              |
 | [![mall-learning](https://github-readme-stats.vercel.app/api/pin/?username=macrozheng&repo=mall-learning&theme=dark)](https://github.com/macrozheng/mall-learning) |                                                              |
 
 ## ⏳ 项目
@@ -56,8 +56,13 @@
 
 ### 🏃‍♀️ 电商
 
--   [mall4j](https://github.com/gz-yami/mall4j): java电商商城系统
--   [mall](https://github.com/macrozheng/mall): mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块
+|[![mall](https://github-readme-stats.vercel.app/api/pin/?username=macrozheng&repo=mall&theme=dark)](https://github.com/macrozheng/mall)|[![mall4j](https://github-readme-stats.vercel.app/api/pin/?username=gz-yami&repo=mall4j&theme=dark)](https://github.com/gz-yami/mall4j)|
+| ---- | ---- |
+|      |      |
+|      |      |
+|      |      |
+
+
 
 -   [miaosha](https://github.com/qiurunze123/miaosha): ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
 -   [newbee-mall](https://github.com/newbee-ltd/newbee-mall): newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
