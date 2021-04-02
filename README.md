@@ -121,10 +121,9 @@
 ## ⏳ 项目
 # 👒 数据结构与算法
 
--   [LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation):用动画的形式呈现解LeetCode题目的思路
--   [fucking-algorithm](https://github.com/labuladong/fucking-algorithm): 刷算法全靠套路，认准 labuladong 就够了！
--   [hello-algorithm](https://github.com/geekxh/hello-algorithm): 🌍「算法面试+算法知识」针对小白的算法训练 | 还包括：1、阿里、字节、滴滴 百篇大厂面经汇总 2、千本开源电子书 3、百张思维导图
--   [Java](https://github.com/TheAlgorithms/Java): All Algorithms implemented in Java
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=MisterBooo&repo=LeetCodeAnimation&theme=dark)](https://github.com/MisterBooo/LeetCodeAnimation) | [![](https://github-readme-stats.vercel.app/api/pin/?username=labuladong&repo=fucking-algorithm&theme=dark)](https://github.com/labuladong/fucking-algorithm) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=geekxh&repo=hello-algorithm&theme=dark)](https://github.com/geekxh/hello-algorithm) | [![](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Java&theme=dark)](https://github.com/TheAlgorithms/Java) |
 
 # 👣 Linux
 
