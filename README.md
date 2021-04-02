@@ -41,6 +41,12 @@
 
 ## 🔬 教程
 
+| [![cs-docs](https://github-readme-stats.vercel.app/api/pin/?username=cunyu1943&repo=cs-docs&theme=dark)](https://github.com/cunyu1943/cs-docs) |      |      |      |
+| ------------------------------------------------------------ | ---- | ---- | ---- |
+|                                                              |      |      |      |
+
+
+
 -   [On Java 8](https://lingcoder.github.io/OnJava8/#/)：《Thinking in Java》 第 5 版
 -   [JavaGuide](https://github.com/Snailclimb/JavaGuide): 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
 -   [LearningNotes](https://github.com/francistao/LearningNotes)
@@ -109,35 +115,35 @@
 
 ## 🕶 UI 组件
 
--   [element](https://github.com/ElemeFE/element)  34,784 - 饿了么出品的基于Vue2的web UI工具套件
--   [storybook](https://github.com/storybooks/storybook) 33,503 - 响应式UI 开发及测试环境
--    [Vux](https://github.com/airyland/vux) 15,061 - 基于Vue和WeUI的组件库
--    [mint-ui](https://github.com/ElemeFE/mint-ui) 13,381 - Vue 2的移动UI元素
--    [iview](https://github.com/iview/iview) 19,629 - 基于 Vuejs 的开源 UI 组件库
--    [Keen-UI](https://github.com/JosephusPaye/Keen-UI) 3,615 - 轻量级的UI组件合集
--    [vue-material](https://github.com/vuematerial/vue-material) 7,542 - 实现Material效果的UI库
--    [muse-ui](https://github.com/museui/muse-ui) 7,077 - 三端样式一致的响应式 UI 库
--    [vuetify](https://github.com/vuetifyjs/vuetify) 16,345 - 为移动而生的Vue JS 2组件框架
--    [vonic](https://github.com/wangdahoo/vonic) 3,009 - 快速构建移动端单页应用
--    [eme](https://github.com/egoist/eme) 1,772 - 优雅的Markdown编辑器
--    [vue-multiselect](https://github.com/shentao/vue-multiselect) 3,877 - Vue.js选择框解决方案
--    [vue-table](https://github.com/ratiw/vue-table) 1,691 - 简化数据表格
--    [VueCircleMenu](https://github.com/OYsun/VueCircleMenu) 1,075 - 漂亮的vue圆环菜单
--   [vue-chat](https://github.com/Coffcer/vue-chat) 1,255 - vuejs和vuex及webpack的聊天示例
--   [radon-ui](https://github.com/luojilab/radon-ui) 885 - 快速开发产品的Vue组件库
--   [vue-waterfall](https://github.com/MopTym/vue-waterfall) 1,447 - Vue.js的瀑布布局组件
--   [vue-carbon](https://github.com/myronliu347/vue-carbon) 909 - 基于 vue 开发MD风格的移动端组件库
--   [vue-beauty](https://github.com/FE-Driver/vue-beauty) 1,871 - 由vue和ant design创建的优美UI组件
--   [vue-blu](https://github.com/chenz24/vue-blu) 1,449 - 帮助你轻松创建web应用
--   [vueAdmin](https://github.com/taylorchen709/vue-admin) 4,836 - 基于vuejs2和element的简单的管理员模板
--   [vue-syntax-highlight](https://github.com/vuejs/vue-syntax-highlight) 1,202 - Sublime Text语法高亮
--   [vue-infinite-scroll](https://github.com/ElemeFE/vue-infinite-scroll) 1,886 - VueJS的无限滚动指令
--   [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) 6,459 - 实现拖放和视图模型数组同步
--   [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper) 5,817 - vue.js触摸滑动组件
--   [vue-calendar](https://github.com/jinzhe/vue-calendar) 1,081 - 日期选择插件
--   [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue) 7,757 - 应用于Vuejs2的Twitter的Bootstrap 4组件
--   [vue-swipe](https://github.com/ElemeFE/vue-swipe) 866 - VueJS触摸滑块
--   [vue-amap](https://github.com/ElemeFE/vue-amap) 1,869 - 基于Vue 2和高德地图的地图组件
+-   [element](https://github.com/ElemeFE/element)：饿了么出品的基于Vue2的web UI工具套件
+-   [storybook](https://github.com/storybooks/storybook)：响应式UI 开发及测试环境
+-    [Vux](https://github.com/airyland/vux)：基于Vue和WeUI的组件库
+-    [mint-ui](https://github.com/ElemeFE/mint-ui)：Vue 2的移动UI元素
+-    [iview](https://github.com/iview/iview)：基于 Vuejs 的开源 UI 组件库
+-    [Keen-UI](https://github.com/JosephusPaye/Keen-UI)：轻量级的UI组件合集
+-    [vue-material](https://github.com/vuematerial/vue-material)：实现Material效果的UI库
+-    [muse-ui](https://github.com/museui/muse-ui)：三端样式一致的响应式 UI 库
+-    [vuetify](https://github.com/vuetifyjs/vuetify)：为移动而生的Vue JS 2组件框架
+-    [vonic](https://github.com/wangdahoo/vonic)：快速构建移动端单页应用
+-    [eme](https://github.com/egoist/eme)：优雅的Markdown编辑器
+-    [vue-multiselect](https://github.com/shentao/vue-multiselect)：Vue.js选择框解决方案
+-    [vue-table](https://github.com/ratiw/vue-table)：简化数据表格
+-    [VueCircleMenu](https://github.com/OYsun/VueCircleMenu)：漂亮的vue圆环菜单
+-   [vue-chat](https://github.com/Coffcer/vue-chat)：vuejs和vuex及webpack的聊天示例
+-   [radon-ui](https://github.com/luojilab/radon-ui)：快速开发产品的Vue组件库
+-   [vue-waterfall](https://github.com/MopTym/vue-waterfall)：Vue.js的瀑布布局组件
+-   [vue-carbon](https://github.com/myronliu347/vue-carbon)：基于 vue 开发MD风格的移动端组件库
+-   [vue-beauty](https://github.com/FE-Driver/vue-beauty)：由vue和ant design创建的优美UI组件
+-   [vue-blu](https://github.com/chenz24/vue-blu)：帮助你轻松创建web应用
+-   [vueAdmin](https://github.com/taylorchen709/vue-admin)：基于vuejs2和element的简单的管理员模板
+-   [vue-syntax-highlight](https://github.com/vuejs/vue-syntax-highlight)：Sublime Text语法高亮
+-   [vue-infinite-scroll](https://github.com/ElemeFE/vue-infinite-scroll)：VueJS的无限滚动指令
+-   [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable)：实现拖放和视图模型数组同步
+-   [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper)：vue.js触摸滑动组件
+-   [vue-calendar](https://github.com/jinzhe/vue-calendar)：日期选择插件
+-   [bootstrap-vue](https://github.com/bootstrap-vue/bootstrap-vue)：应用于Vuejs2的Twitter的Bootstrap 4组件
+-   [vue-swipe](https://github.com/ElemeFE/vue-swipe)：触摸滑块
+-   [vue-amap](https://github.com/ElemeFE/vue-amap)：基于Vue 2和高德地图的地图组件
 -   [vue-chartjs](https://github.com/apertureless/vue-chartjs) 2,661 - vue中的Chartjs的封装
 -   [vue-datepicker](https://github.com/hilongjw/vue-datepicker) 681 - 日历和日期选择组件
 -   [vue-google-maps](https://github.com/GuillaumeLeclerc/vue-google-maps) 493 - 带有双向数据绑定Google地图组件
@@ -154,9 +160,9 @@
 -   [VueStar](https://github.com/OYsun/VueStar) 637 - 带星星动画的vue点赞按钮
 -   [vue-mugen-scroll](https://github.com/egoist/vue-mugen-scroll) 457 - 无限滚动组件
 -   [mint-loadmore](https://github.com/mint-ui/mint-loadmore) 316 - VueJS的双向下拉刷新组件
--   [vue-tables-2](https://github.com/matfish2/vue-tables-2) 1,064 - 显示数据的bootstrap样式网格
--   [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller) 1,672 - 带任意数目数据的顺畅的滚动
--   [DataVisualization](https://github.com/SimonZhangITer/DataVisualization) 985 - 数据可视化
+-   [vue-tables-2](https://github.com/matfish2/vue-tables-2)：显示数据的bootstrap样式网格
+-   [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller)：带任意数目数据的顺畅的滚动
+-   [DataVisualization](https://github.com/SimonZhangITer/DataVisualization)：数据可视化
 -   [vue-quill-editor](https://github.com/surmon-china/vue-quill-editor) 3,533 - 基于Quill适用于Vue2的富文本编辑器
 -   [Vueditor](https://github.com/hifarer/Vueditor) 506 - 所见即所得的编辑器
 -   [vue-html5-editor](https://github.com/PeakTai/vue-html5-editor) 761 - html5所见即所得编辑器
@@ -209,8 +215,8 @@
 -   [we-vue](https://github.com/tianyong90/we-vue) 356 - Vue2及weui1开发的组件
 -   [vue-radial-progress](https://github.com/wyzant-dev/vue-radial-progress) 206 - Vue.js放射性进度条组件
 -   [vue-slick](https://github.com/staskjs/vue-slick) 349 - 实现流畅轮播框的vue组件
--   [vue-pull-to-refresh](https://github.com/bajian/vue-pull-to-refresh):Vue2的上拉下拉
--   [vue-side-nav](https://github.com/vue-comps/vue-side-nav) 50 - 响应式的侧边导航
+-   [vue-pull-to-refresh](https://github.com/bajian/vue-pull-to-refresh)：Vue2的上拉下拉
+-   [vue-side-nav](https://github.com/vue-comps/vue-side-nav)：响应式的侧边导航
 -   [mint-indicator](https://github.com/mint-ui/mint-indicator) 71 - VueJS移动加载指示器插件
 -   [vue-touch-keyboard](https://github.com/icebob/vue-touch-keyboard) 153 - VueJS虚拟键盘组件
 -   [vue-chartkick](https://github.com/ankane/vue-chartkick) 444 - VueJS一行代码实现优美图表
