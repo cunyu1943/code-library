@@ -72,12 +72,11 @@
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=yourkevin&repo=NiterForum&theme=dark)](https://github.com/yourkevin/NiterForum) | [![](https://github-readme-stats.vercel.app/api/pin/?username=codedrinker&repo=community&theme=dark)](https://github.com/codedrinker/community) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=cloudfavorites&repo=favorites-web&theme=dark)](https://github.com/cloudfavorites/favorites-web) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Qbian61&repo=forum-java&theme=dark)](https://github.com/Qbian61/forum-java) |
 
-
 # 🐍 Python
 
 ## 🔬 教程
 
-| [莫烦Python](https://mofanpy.com/)                           | https://www.learnpython.org/                                 |
+| [莫烦Python](https://mofanpy.com/)                           | [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Python123 - 编程更简单](https://python123.io/)              | [Python 数据分析视频](https://shimo.im/docs/36pykCPH6XCjKJcv/read) |
 | [价值2万多的Python教程全套](https://www.bilibili.com/video/BV1wD4y1o7AS) | [Python教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1016959663602400) |
@@ -93,7 +92,7 @@
 ## 🔬 教程
 
 | [C 语言教程 \| 菜鸟教程](https://www.runoob.com/cprogramming/c-tutorial.html) | [C语言入门教程，C语言学习教程（非常详细）](http://c.biancheng.net/c/) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| :----------------------------------------------------------- | ------------------------------------------------------------ |
 | [C语言入门教程-慕课网](http://www.imooc.com/learn/249)       | [ 笨办法学C](https://wizardforcel.gitbooks.io/lcthw/content/preface.html) |
 | [C 语言简明教程_C - 蓝桥云课](https://www.lanqiao.cn/courses/57) | [C语言基础入门 - 网易云课堂](https://study.163.com/course/introduction/1003030021.htm#/courseDetail) |
 | [C Programming Tutorial](https://fresh2refresh.com/c-programming/) |                                                              |
