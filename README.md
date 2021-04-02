@@ -44,7 +44,7 @@
 | [How2J 的 Java教程](https://how2j.cn/)                       | [蚂蚁课堂-课程列表](http://www.mayikt.com/freeOrMember?status=0) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Learn Java - Free Interactive Java Tutorial](https://www.learnjavaonline.org/) | [Java教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1252599548343744) |
-| [Java 教程 \| 菜鸟教程](https://www.runoob.com/java/java-tutorial.html) |                                                              |
+| [Java 教程 \| 菜鸟教程](https://www.runoob.com/java/java-tutorial.html) | [Java Tutorial](https://fresh2refresh.com/java-tutorial/)    |
 | [![onJava8](https://github-readme-stats.vercel.app/api/pin/?username=lingcoder&repo=onJava8&theme=dark)](https://github.com/lingcoder/onJava8/) | [![JavaGuide](https://github-readme-stats.vercel.app/api/pin/?username=Snailclimb&repo=JavaGuide&theme=dark)](https://github.com/Snailclimb/JavaGuide) |
 | [![tutorials](https://github-readme-stats.vercel.app/api/pin/?username=eugenp&repo=tutorials&theme=dark)](https://github.com/eugenp/tutorials) | [![JavaSourceCodeLearning](https://github-readme-stats.vercel.app/api/pin/?username=coderbruis&repo=JavaSourceCodeLearning&theme=dark)](https://github.com/coderbruis/JavaSourceCodeLearning) |
 | [![LearningJDK](https://github-readme-stats.vercel.app/api/pin/?username=kangjianwei&repo=LearningJDK&theme=dark)](https://github.com/kangjianwei/LearningJDK) | [![LearningNotes](https://github-readme-stats.vercel.app/api/pin/?username=francistao&repo=LearningNotes&theme=dark)](https://github.com/francistao/LearningNotes) |
@@ -81,7 +81,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Python123 - 编程更简单](https://python123.io/)              | [Python 数据分析视频](https://shimo.im/docs/36pykCPH6XCjKJcv/read) |
 | [价值2万多的Python教程全套](https://www.bilibili.com/video/BV1wD4y1o7AS) | [Python教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1016959663602400) |
-| [Python3 教程 \| 菜鸟教程](https://www.runoob.com/python3/python3-tutorial.html) |                                                              |
+| [Python3 教程 \| 菜鸟教程](https://www.runoob.com/python3/python3-tutorial.html) | [Python Tutorial](https://fresh2refresh.com/python-tutorial/) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=jackfrued&repo=Python-100-Days&theme=dark)](https://github.com/jackfrued/Python-100-Days) | [![](https://github-readme-stats.vercel.app/api/pin/?username=TwoWater&repo=Python&theme=dark)](https://github.com/TwoWater/Python) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=wistbean&repo=learn_python3_spider&theme=dark)](https://github.com/wistbean/learn_python3_spider) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Kr1s77&repo=Python-crawler-tutorial-starts-from-zero&theme=dark)](https://github.com/Kr1s77/Python-crawler-tutorial-starts-from-zero) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=CodecWang&repo=OpenCV-Python-Tutorial&theme=dark)](https://github.com/CodecWang/OpenCV-Python-Tutorial) | [![](https://github-readme-stats.vercel.app/api/pin/?username=hangsz&repo=pandas-tutorial&theme=dark)](https://github.com/hangsz/pandas-tutorial) |
@@ -111,6 +111,12 @@
 # 🐋 C++
 
 ## 🔬 教程
+
+|                                                         |      |
+| ------------------------------------------------------- | ---- |
+| [C++ Tutorial](https://fresh2refresh.com/cpp-tutorial/) |      |
+
+
 
 ## ⏳ 项目
 
