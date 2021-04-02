@@ -56,17 +56,19 @@
 
 ### 🏃‍♀️ 电商
 
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=macrozheng&repo=mall&theme=dark)](https://github.com/macrozheng/mall) | [![mall4j](https://github-readme-stats.vercel.app/api/pin/?username=gz-yami&repo=mall4j&theme=dark)](https://github.com/gz-yami/mall4j) |
+|                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=macrozheng&repo=mall&theme=dark)](https://github.com/macrozheng/mall) | [![mall4j](https://github-readme-stats.vercel.app/api/pin/?username=gz-yami&repo=mall4j&theme=dark)](https://github.com/gz-yami/mall4j) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=qiurunze123&repo=miaosha&theme=dark)](https://github.com/qiurunze123/miaosha) | [![](https://github-readme-stats.vercel.app/api/pin/?username=newbee-ltd&repo=newbee-mall&theme=dark)](https://github.com/newbee-ltd/newbee-mall) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=paascloud&repo=paascloud-master&theme=dark)](https://github.com/paascloud/paascloud-master) | [![](https://github-readme-stats.vercel.app/api/pin/?username=YunaiV&repo=onemall&theme=dark)](https://github.com/YunaiV/onemall) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=macrozheng&repo=mall-swarm&theme=dark)](https://github.com/macrozheng/mall-swarm) | [![](https://github-readme-stats.vercel.app/api/pin/?username=linlinjava&repo=litemall&theme=dark)](https://github.com/linlinjava/litemall) |
-|[![](https://github-readme-stats.vercel.app/api/pin/?username=hfbin&repo=Seckill&theme=dark)](https://github.com/hfbin/Seckill)|[![](https://github-readme-stats.vercel.app/api/pin/?username=Exrick&repo=xmall&theme=dark)](https://github.com/Exrick/xmall)|
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=hfbin&repo=Seckill&theme=dark)](https://github.com/hfbin/Seckill) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Exrick&repo=xmall&theme=dark)](https://github.com/Exrick/xmall) |
 
 ### 🏃‍♂️ 博客论坛
 
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=halo-dev&repo=halo&theme=dark)](https://github.com/halo-dev/halo) | [![](https://github-readme-stats.vercel.app/api/pin/?username=langhsu&repo=mblog&theme=dark)](https://github.com/langhsu/mblog) |
+|                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=halo-dev&repo=halo&theme=dark)](https://github.com/halo-dev/halo) | [![](https://github-readme-stats.vercel.app/api/pin/?username=langhsu&repo=mblog&theme=dark)](https://github.com/langhsu/mblog) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=ZHENFENG13&repo=My-Blog&theme=dark)](https://github.com/ZHENFENG13/My-Blog) | [![](https://github-readme-stats.vercel.app/api/pin/?username=ZHENFENG13&repo=My-Blog-layui&theme=dark)](https://github.com/ZHENFENG13/My-Blog-layui) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=88250&repo=symphony&theme=dark)](https://github.com/88250/symphony) | [![](https://github-readme-stats.vercel.app/api/pin/?username=damoqiongqiu&repo=NiceFish&theme=dark)](https://github.com/damoqiongqiu/NiceFish) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=lenve&repo=VBlog&theme=dark)](https://github.com/lenve/VBlog) | [![](https://github-readme-stats.vercel.app/api/pin/?username=lenve&repo=vhr&theme=dark)](https://github.com/lenve/vhr) |
@@ -129,8 +131,9 @@
 
 # 👒 数据结构与算法
 
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=MisterBooo&repo=LeetCodeAnimation&theme=dark)](https://github.com/MisterBooo/LeetCodeAnimation) | [![](https://github-readme-stats.vercel.app/api/pin/?username=labuladong&repo=fucking-algorithm&theme=dark)](https://github.com/labuladong/fucking-algorithm) |
+|                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=MisterBooo&repo=LeetCodeAnimation&theme=dark)](https://github.com/MisterBooo/LeetCodeAnimation) | [![](https://github-readme-stats.vercel.app/api/pin/?username=labuladong&repo=fucking-algorithm&theme=dark)](https://github.com/labuladong/fucking-algorithm) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=geekxh&repo=hello-algorithm&theme=dark)](https://github.com/geekxh/hello-algorithm) | [![](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Java&theme=dark)](https://github.com/TheAlgorithms/Java) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=halfrost&repo=LeetCode-Go&theme=dark)](https://github.com/halfrost/LeetCode-Go) |                                                              |
 
