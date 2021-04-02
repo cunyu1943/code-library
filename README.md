@@ -43,7 +43,8 @@
 
 | [How2J 的 Java教程](https://how2j.cn/)                       | [蚂蚁课堂-课程列表](http://www.mayikt.com/freeOrMember?status=0) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Learn Java - Free Interactive Java Tutorial](https://www.learnjavaonline.org/) |                                                              |
+| [Learn Java - Free Interactive Java Tutorial](https://www.learnjavaonline.org/) | [Java教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1252599548343744) |
+| [Java 教程 \| 菜鸟教程](https://www.runoob.com/java/java-tutorial.html) |                                                              |
 | [![onJava8](https://github-readme-stats.vercel.app/api/pin/?username=lingcoder&repo=onJava8&theme=dark)](https://github.com/lingcoder/onJava8/) | [![JavaGuide](https://github-readme-stats.vercel.app/api/pin/?username=Snailclimb&repo=JavaGuide&theme=dark)](https://github.com/Snailclimb/JavaGuide) |
 | [![tutorials](https://github-readme-stats.vercel.app/api/pin/?username=eugenp&repo=tutorials&theme=dark)](https://github.com/eugenp/tutorials) | [![JavaSourceCodeLearning](https://github-readme-stats.vercel.app/api/pin/?username=coderbruis&repo=JavaSourceCodeLearning&theme=dark)](https://github.com/coderbruis/JavaSourceCodeLearning) |
 | [![LearningJDK](https://github-readme-stats.vercel.app/api/pin/?username=kangjianwei&repo=LearningJDK&theme=dark)](https://github.com/kangjianwei/LearningJDK) | [![LearningNotes](https://github-readme-stats.vercel.app/api/pin/?username=francistao&repo=LearningNotes&theme=dark)](https://github.com/francistao/LearningNotes) |
@@ -56,11 +57,11 @@
 
 ### 🏃‍♀️ 电商
 
-|[![mall](https://github-readme-stats.vercel.app/api/pin/?username=macrozheng&repo=mall&theme=dark)](https://github.com/macrozheng/mall)|[![mall4j](https://github-readme-stats.vercel.app/api/pin/?username=gz-yami&repo=mall4j&theme=dark)](https://github.com/gz-yami/mall4j)|
-| ---- | ---- |
-|      |      |
-|      |      |
-|      |      |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=macrozheng&repo=mall&theme=dark)](https://github.com/macrozheng/mall) | [![mall4j](https://github-readme-stats.vercel.app/api/pin/?username=gz-yami&repo=mall4j&theme=dark)](https://github.com/gz-yami/mall4j) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+|                                                              |                                                              |
+|                                                              |                                                              |
+|                                                              |                                                              |
 
 
 
@@ -75,11 +76,10 @@
 
 ### 🏃‍♂️ 博客论坛
 
--   [halo](https://github.com/halo-dev/halo): ✍ 一个优秀的开源博客发布应用。
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=halo-dev&repo=halo&theme=dark)](https://github.com/halo-dev/halo) | [![](https://github-readme-stats.vercel.app/api/pin/?username=langhsu&repo=mblog&theme=dark)](https://github.com/langhsu/mblog) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=ZHENFENG13&repo=My-Blog&theme=dark)](https://github.com/ZHENFENG13/My-Blog) | [![](https://github-readme-stats.vercel.app/api/pin/?username=ZHENFENG13&repo=My-Blog-layui&theme=dark)](https://github.com/ZHENFENG13/My-Blog-layui) |
 
--   [mblog](https://github.com/langhsu/mblog): 开源免费的Java博客系统, 采用spring-boot、spring-data-jpa、shiro、freemarker、bootstrap等框架, 支持Docker
--   [My-Blog](https://github.com/ZHENFENG13/My-Blog): A simple & beautiful blogging system implemented with spring-boot & thymeleaf & mybatis My Blog 是由 SpringBoot + Mybatis + Thymeleaf 等技术实现的 Java 博客系统，页面美观、功能齐全、部署简单及完善的代码，一定会给使用者无与伦比的体验
--   [My-Blog-layui](https://github.com/ZHENFENG13/My-Blog-layui): layui 版本的 My-Blog : A simple & beautiful blogging system implemented with spring-boot & layui & thymeleaf & mybatis My Blog 是由 SpringBoot + Layui + Mybatis + Thymeleaf 等技术实现的 Java 博客系统，页面美观、功能齐全、部署简单及完善的代码，一定会给使用者无与伦比的体验
 -   [symphony](https://github.com/88250/symphony): 🎶 一款用 Java 实现的现代化社区（论坛/问答/BBS/社交网络/博客）系统平台
 -   [NiceFish](https://github.com/damoqiongqiu/NiceFish): NiceFish（美人鱼） 是一个系列项目，目标是示范前后端分离的开发模式:前端浏览器、移动端、Electron 环境中的各种开发模式；后端有两个版本：SpringBoot 版本和 SpringCloud 版本
 -   [VBlog](https://github.com/lenve/VBlog): V部落，Vue+SpringBoot实现的多用户博客管理平台! 
@@ -96,7 +96,8 @@
 | [莫烦Python](https://mofanpy.com/)                           | https://www.learnpython.org/                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Python123 - 编程更简单](https://python123.io/)              | [Python 数据分析视频](https://shimo.im/docs/36pykCPH6XCjKJcv/read) |
-| [价值2万多的Python教程全套](https://www.bilibili.com/video/BV1wD4y1o7AS) |                                                              |
+| [价值2万多的Python教程全套](https://www.bilibili.com/video/BV1wD4y1o7AS) | [Python教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1016959663602400) |
+| [Python3 教程 \| 菜鸟教程](https://www.runoob.com/python3/python3-tutorial.html) |                                                              |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=jackfrued&repo=Python-100-Days&theme=dark)](https://github.com/jackfrued/Python-100-Days) | [![](https://github-readme-stats.vercel.app/api/pin/?username=TwoWater&repo=Python&theme=dark)](https://github.com/TwoWater/Python) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=wistbean&repo=learn_python3_spider&theme=dark)](https://github.com/wistbean/learn_python3_spider) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Kr1s77&repo=Python-crawler-tutorial-starts-from-zero&theme=dark)](https://github.com/Kr1s77/Python-crawler-tutorial-starts-from-zero) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=CodecWang&repo=OpenCV-Python-Tutorial&theme=dark)](https://github.com/CodecWang/OpenCV-Python-Tutorial) | [![](https://github-readme-stats.vercel.app/api/pin/?username=hangsz&repo=pandas-tutorial&theme=dark)](https://github.com/hangsz/pandas-tutorial) |
@@ -106,11 +107,14 @@
 # 👻 C
 
 ## 🔬 教程
+
+| [C 语言教程 \| 菜鸟教程](https://www.runoob.com/cprogramming/c-tutorial.html) |      |
+| ------------------------------------------------------------ | ---- |
+|                                                              |      |
+
+
+
 ## ⏳ 项目
-
-# 🧶 Vue
-
-## 🕶 UI 组件
 
 
 
@@ -119,6 +123,7 @@
 ## 🔬 教程
 
 ## ⏳ 项目
+
 # 👒 数据结构与算法
 
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=MisterBooo&repo=LeetCodeAnimation&theme=dark)](https://github.com/MisterBooo/LeetCodeAnimation) | [![](https://github-readme-stats.vercel.app/api/pin/?username=labuladong&repo=fucking-algorithm&theme=dark)](https://github.com/labuladong/fucking-algorithm) |
