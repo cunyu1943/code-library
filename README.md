@@ -44,6 +44,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=CyC2018&repo=CS-Notes&theme=dark)](https://github.com/CyC2018/CS-Notes) | [![](https://github-readme-stats.vercel.app/api/pin/?username=wolverinn&repo=Waking-Up&theme=dark)](https://github.com/wolverinn/Waking-Up/) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=frank-lam&repo=fullstack-tutorial&theme=dark)](https://github.com/frank-lam/fullstack-tutorial) | [![](https://github-readme-stats.vercel.app/api/pin/?username=0voice&repo=interview_internal_reference&theme=dark)](https://github.com/0voice/interview_internal_reference) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=kdn251&repo=interviews&theme=dark)](https://github.com/kdn251/interviews/) |                                                              |
 
 
 
@@ -158,6 +159,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [C 语言实现 2048 游戏_C - 蓝桥云课](https://www.lanqiao.cn/courses/155) | [C语言：斗地主的发牌器 - 网易云课堂](https://study.163.com/course/introduction/1321006.htm#/courseDetail) |
 | [C 语言实现简单计算器_C - 蓝桥云课](https://www.lanqiao.cn/courses/75) | [C 语言实现自己的编程语言_C - 蓝桥云课](https://www.lanqiao.cn/courses/670) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=Rapiz1&repo=DungeonRush&theme=dark)](https://github.com/Rapiz1/DungeonRush) |                                                              |
 
 
 
@@ -197,11 +199,18 @@
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=MisterBooo&repo=LeetCodeAnimation&theme=dark)](https://github.com/MisterBooo/LeetCodeAnimation) | [![](https://github-readme-stats.vercel.app/api/pin/?username=labuladong&repo=fucking-algorithm&theme=dark)](https://github.com/labuladong/fucking-algorithm) |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=geekxh&repo=hello-algorithm&theme=dark)](https://github.com/geekxh/hello-algorithm) | [![](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Java&theme=dark)](https://github.com/TheAlgorithms/Java) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=geekxh&repo=hello-algorithm&theme=dark)](https://github.com/geekxh/hello-algorithm) | [![](https://github-readme-stats.vercel.app/api/pin/?username=nonstriater&repo=Learn-Algorithms&theme=dark)](https://github.com/nonstriater/Learn-Algorithms) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=halfrost&repo=LeetCode-Go&theme=dark)](https://github.com/halfrost/LeetCode-Go) | [![](https://github-readme-stats.vercel.app/api/pin/?username=billryan&repo=algorithm-exercise&theme=dark)](https://github.com/billryan/algorithm-exercise) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=liweiwei1419&repo=LeetCode-Solutions-in-Good-Style&theme=dark)](https://github.com/liweiwei1419/LeetCode-Solutions-in-Good-Style) | [![](https://github-readme-stats.vercel.app/api/pin/?username=doocs&repo=leetcode&theme=dark)](https://github.com/doocs/leetcode) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=Xunzhuo&repo=Algorithm-Guide&theme=dark)](https://github.com/Xunzhuo/Algorithm-Guide) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Blankj&repo=awesome-java-leetcode&theme=dark)](https://github.com/Blankj/awesome-java-leetcode) |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=C-Plus-Plus&theme=dark)](https://github.com/TheAlgorithms/C-Plus-Plus) |                                                              |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=C-Plus-Plus&theme=dark)](https://github.com/TheAlgorithms/C-Plus-Plus) | [![](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=C&theme=dark)](https://github.com/TheAlgorithms/C) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Go&theme=dark)](https://github.com/TheAlgorithms/Go) | [![](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Python&theme=dark)](https://github.com/TheAlgorithms/Python) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Javascript&theme=dark)](https://github.com/TheAlgorithms/Javascript) | [![](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Java&theme=dark)](https://github.com/TheAlgorithms/Java) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=greyireland&repo=algorithm-pattern&theme=dark)](https://github.com/greyireland/algorithm-pattern) | [![](https://github-readme-stats.vercel.app/api/pin/?username=algorithm-visualizer&repo=algorithm-visualizer&theme=dark)](https://github.com/algorithm-visualizer/algorithm-visualizer) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=mgechev&repo=javascript-algorithms&theme=dark)](https://github.com/mgechev/javascript-algorithms) | [![](https://github-readme-stats.vercel.app/api/pin/?username=trekhleb&repo=javascript-algorithms&theme=dark)](https://github.com/trekhleb/javascript-algorithms) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=keon&repo=algorithms&theme=dark)](https://github.com/keon/algorithms) | [![](https://github-readme-stats.vercel.app/api/pin/?username=jeffgerickson&repo=algorithms&theme=dark)](https://github.com/jeffgerickson/algorithms) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=raywenderlich&repo=swift-algorithm-club&theme=dark)](https://github.com/raywenderlich/swift-algorithm-club) | [![](https://github-readme-stats.vercel.app/api/pin/?username=tayllan&repo=awesome-algorithms&theme=dark)](https://github.com/tayllan/awesome-algorithms) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=wangzheng0822&repo=algo&theme=dark)](https://github.com/wangzheng0822/algo) | [![](https://github-readme-stats.vercel.app/api/pin/?username=liuxinyu95&repo=AlgoXY&theme=dark)](https://github.com/liuxinyu95/AlgoXY) |
 
 # 👣 Linux
 
