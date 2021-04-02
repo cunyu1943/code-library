@@ -122,7 +122,7 @@
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=wistbean&repo=learn_python3_spider&theme=dark)](https://github.com/wistbean/learn_python3_spider) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Kr1s77&repo=Python-crawler-tutorial-starts-from-zero&theme=dark)](https://github.com/Kr1s77/Python-crawler-tutorial-starts-from-zero) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=CodecWang&repo=OpenCV-Python-Tutorial&theme=dark)](https://github.com/CodecWang/OpenCV-Python-Tutorial) | [![](https://github-readme-stats.vercel.app/api/pin/?username=hangsz&repo=pandas-tutorial&theme=dark)](https://github.com/hangsz/pandas-tutorial) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=ethan-funny&repo=explore-python&theme=dark)](https://github.com/ethan-funny/explore-python) | [![](https://github-readme-stats.vercel.app/api/pin/?username=realpython&repo=python-guide&theme=dark)](https://github.com/realpython/python-guide) |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=TwoWater&repo=Python&theme=dark)](https://github.com/TwoWater/Python) |                                                              |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=yidao620c&repo=python3-cookbook&theme=dark)](https://github.com/yidao620c/python3-cookbook) |                                                              |
 
 ## ⏳ 项目
 
@@ -184,7 +184,7 @@
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=geekxh&repo=hello-algorithm&theme=dark)](https://github.com/geekxh/hello-algorithm) | [![](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Java&theme=dark)](https://github.com/TheAlgorithms/Java) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=halfrost&repo=LeetCode-Go&theme=dark)](https://github.com/halfrost/LeetCode-Go) | [![](https://github-readme-stats.vercel.app/api/pin/?username=billryan&repo=algorithm-exercise&theme=dark)](https://github.com/billryan/algorithm-exercise) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=liweiwei1419&repo=LeetCode-Solutions-in-Good-Style&theme=dark)](https://github.com/liweiwei1419/LeetCode-Solutions-in-Good-Style) | [![](https://github-readme-stats.vercel.app/api/pin/?username=doocs&repo=leetcode&theme=dark)](https://github.com/doocs/leetcode) |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=Xunzhuo&repo=Algorithm-Guide&theme=dark)](https://github.com/Xunzhuo/Algorithm-Guide) |                                                              |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=Xunzhuo&repo=Algorithm-Guide&theme=dark)](https://github.com/Xunzhuo/Algorithm-Guide) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Blankj&repo=awesome-java-leetcode&theme=dark)](https://github.com/Blankj/awesome-java-leetcode) |
 
 # 👣 Linux
 
