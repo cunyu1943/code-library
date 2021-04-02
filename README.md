@@ -121,8 +121,16 @@
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=jackfrued&repo=Python-100-Days&theme=dark)](https://github.com/jackfrued/Python-100-Days) | [![](https://github-readme-stats.vercel.app/api/pin/?username=TwoWater&repo=Python&theme=dark)](https://github.com/TwoWater/Python) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=wistbean&repo=learn_python3_spider&theme=dark)](https://github.com/wistbean/learn_python3_spider) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Kr1s77&repo=Python-crawler-tutorial-starts-from-zero&theme=dark)](https://github.com/Kr1s77/Python-crawler-tutorial-starts-from-zero) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=CodecWang&repo=OpenCV-Python-Tutorial&theme=dark)](https://github.com/CodecWang/OpenCV-Python-Tutorial) | [![](https://github-readme-stats.vercel.app/api/pin/?username=hangsz&repo=pandas-tutorial&theme=dark)](https://github.com/hangsz/pandas-tutorial) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=ethan-funny&repo=explore-python&theme=dark)](https://github.com/ethan-funny/explore-python) | [![](https://github-readme-stats.vercel.app/api/pin/?username=realpython&repo=python-guide&theme=dark)](https://github.com/realpython/python-guide) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=TwoWater&repo=Python&theme=dark)](https://github.com/TwoWater/Python) |                                                              |
 
 ## ⏳ 项目
+
+|                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=bisguzar&repo=twitter-scraper&theme=dark)](https://github.com/bisguzar/twitter-scraper) | [![](https://github-readme-stats.vercel.app/api/pin/?username=TwoWater&repo=Python&theme=dark)](https://github.com/TwoWater/Python) |
+
+
 
 # 👻 C
 
@@ -161,6 +169,12 @@
 
 
 ## ⏳ 项目
+
+|                                                              |      |
+| ------------------------------------------------------------ | ---- |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=plibither8&repo=2048.cpp&theme=dark)](https://github.com/plibither8/2048.cpp) |      |
+
+
 
 # 👒 数据结构/算法
 
