@@ -233,7 +233,10 @@
 | [Linux 教程_w3cschool](https://www.w3cschool.cn/linux/)      | [Linux 命令基础入门_Linux - 蓝桥云课](https://www.lanqiao.cn/courses/68) |
 | [Linux 基础入门_Linux - 蓝桥云课](https://www.lanqiao.cn/courses/1) | [Linux 运维新手入门课_Linux - 蓝桥云课](https://www.lanqiao.cn/courses/1403) |
 | [Linux学习教程，Linux入门教程](https://xinbaoku.com/linux_tutorial) |                                                              |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=yeasy&repo=docker_practice&theme=dark)](https://github.com/yeasy/docker_practice) |                                                              |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=yeasy&repo=docker_practice&theme=dark)](https://github.com/yeasy/docker_practice) | [![](https://github-readme-stats.vercel.app/api/pin/?username=dunwu&repo=linux-tutorial&theme=dark)](https://github.com/dunwu/linux-tutorial) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=judasn&repo=Linux-Tutorial&theme=dark)](https://github.com/judasn/Linux-Tutorial) | [![](https://github-readme-stats.vercel.app/api/pin/?username=jaywcjlove&repo=linux-command&theme=dark)](https://github.com/jaywcjlove/linux-command) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=billie66&repo=TLCL&theme=dark)](https://github.com/billie66/TLCL) | [![](https://github-readme-stats.vercel.app/api/pin/?username=MintCN&repo=linux-insides-zh&theme=dark)](https://github.com/MintCN/linux-insides-zh) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=gatieme&repo=LDD-LinuxDeviceDrivers&theme=dark)](https://github.com/gatieme/LDD-LinuxDeviceDrivers) | [![](https://github-readme-stats.vercel.app/api/pin/?username=me115&repo=linuxtools_rst&theme=dark)](https://github.com/me115/linuxtools_rst) |
 
 # 🎓 Git
 
