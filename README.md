@@ -115,9 +115,13 @@
 
 ## 🔬 教程
 
-|                                                         |      |
-| ------------------------------------------------------- | ---- |
-| [C++ Tutorial](https://fresh2refresh.com/cpp-tutorial/) |      |
+|                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [C++ 文档 - 入门、教程、参考。 \| Microsoft Docs](https://docs.microsoft.com/zh-cn/cpp/cpp/?view=msvc-160) | [C++ 教程 \| 菜鸟教程 ](https://www.runoob.com/cplusplus/cpp-tutorial.html) |
+| [C++教程_编程入门教程_牛客网](https://www.nowcoder.com/tutorial/10003/7bdcb36b1ff74114b026c46b7ac64ac1) |                                                              |
+| [C++入门教程，C++基础教程](http://c.biancheng.net/cplus/)    | [C++ 教程_w3cschool](https://www.w3cschool.cn/cpp/)          |
+| [C++教程™ ](https://www.yiibai.com/cplusplus/)               | [C++在线教程 ](http://gitbook.net/cplusplus/index.html)      |
+| [C++ Tutorial](https://fresh2refresh.com/cpp-tutorial/)      | [The C++ Resources Network](https://www.cplusplus.com/)      |
 
 
 
@@ -128,13 +132,16 @@
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=MisterBooo&repo=LeetCodeAnimation&theme=dark)](https://github.com/MisterBooo/LeetCodeAnimation) | [![](https://github-readme-stats.vercel.app/api/pin/?username=labuladong&repo=fucking-algorithm&theme=dark)](https://github.com/labuladong/fucking-algorithm) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=geekxh&repo=hello-algorithm&theme=dark)](https://github.com/geekxh/hello-algorithm) | [![](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=Java&theme=dark)](https://github.com/TheAlgorithms/Java) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=halfrost&repo=LeetCode-Go&theme=dark)](https://github.com/halfrost/LeetCode-Go) |                                                              |
 
 # 👣 Linux
 
-|                                                |      |
-| ---------------------------------------------- | ---- |
-| [鸟哥的 Linux 私房菜](http://linux.vbird.org/) |      |
-|                                                |      |
+|                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [鸟哥的 Linux 私房菜](http://linux.vbird.org/)               | [Linux 教程 \| 菜鸟教程](https://www.runoob.com/linux/linux-tutorial.html) |
+| [Linux 教程_w3cschool](https://www.w3cschool.cn/linux/)      | [Linux 命令基础入门_Linux - 蓝桥云课](https://www.lanqiao.cn/courses/68) |
+| [Linux 基础入门_Linux - 蓝桥云课](https://www.lanqiao.cn/courses/1) | [Linux 运维新手入门课_Linux - 蓝桥云课](https://www.lanqiao.cn/courses/1403) |
+| [Linux学习教程，Linux入门教程](https://xinbaoku.com/linux_tutorial) |                                                              |
 
 # 🎓 Git
 
