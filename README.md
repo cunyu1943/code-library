@@ -41,19 +41,14 @@
 
 ## 🔬 教程
 
-|[![onJava8](https://github-readme-stats.vercel.app/api/pin/?username=lingcoder&repo=onJava8&theme=dark)](https://github.com/lingcoder/onJava8/)|[![JavaGuide](https://github-readme-stats.vercel.app/api/pin/?username=Snailclimb&repo=JavaGuide&theme=dark)](https://github.com/Snailclimb/JavaGuide)|
-| ---- | ---- |
-|[![tutorials](https://github-readme-stats.vercel.app/api/pin/?username=eugenp&repo=tutorials&theme=dark)](https://github.com/eugenp/tutorials)|[![JavaSourceCodeLearning](https://github-readme-stats.vercel.app/api/pin/?username=coderbruis&repo=JavaSourceCodeLearning&theme=dark)](https://github.com/coderbruis/JavaSourceCodeLearning)|
-|[![LearningJDK](https://github-readme-stats.vercel.app/api/pin/?username=kangjianwei&repo=LearningJDK&theme=dark)](https://github.com/kangjianwei/LearningJDK)|[![LearningNotes](https://github-readme-stats.vercel.app/api/pin/?username=francistao&repo=LearningNotes&theme=dark)](https://github.com/francistao/LearningNotes)|
-|[![java-learning](https://github-readme-stats.vercel.app/api/pin/?username=brianway&repo=java-learning&theme=dark)](https://github.com/brianway/java-learning)||
-
-
-
--   [SpringAll](https://github.com/wuyouzhuguli/SpringAll): 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码
--   [How2J 的 Java教程](https://how2j.cn/)
--   [Learn Java](https://www.learnjavaonline.org/)：Free Interactive Java Tutorial
--   [蚂蚁课堂-课程列表](http://www.mayikt.com/freeOrMember?status=0)
--   [mall-learning](https://github.com/macrozheng/mall-learning): mall学习教程，架构、业务、技术要点全方位解析。mall项目（40k+star）是一套电商系统，使用现阶段主流技术实现。涵盖了SpringBoot 2.3.0、MyBatis 3.4.6、Elasticsearch 7.6.2、RabbitMQ 3.7.15、Redis 5.0、MongoDB 4.2.5、Mysql5.7等技术，采用Docker容器化部署。
+| [![onJava8](https://github-readme-stats.vercel.app/api/pin/?username=lingcoder&repo=onJava8&theme=dark)](https://github.com/lingcoder/onJava8/) | [![JavaGuide](https://github-readme-stats.vercel.app/api/pin/?username=Snailclimb&repo=JavaGuide&theme=dark)](https://github.com/Snailclimb/JavaGuide) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![tutorials](https://github-readme-stats.vercel.app/api/pin/?username=eugenp&repo=tutorials&theme=dark)](https://github.com/eugenp/tutorials) | [![JavaSourceCodeLearning](https://github-readme-stats.vercel.app/api/pin/?username=coderbruis&repo=JavaSourceCodeLearning&theme=dark)](https://github.com/coderbruis/JavaSourceCodeLearning) |
+| [![LearningJDK](https://github-readme-stats.vercel.app/api/pin/?username=kangjianwei&repo=LearningJDK&theme=dark)](https://github.com/kangjianwei/LearningJDK) | [![LearningNotes](https://github-readme-stats.vercel.app/api/pin/?username=francistao&repo=LearningNotes&theme=dark)](https://github.com/francistao/LearningNotes) |
+| [![java-learning](https://github-readme-stats.vercel.app/api/pin/?username=brianway&repo=java-learning&theme=dark)](https://github.com/brianway/java-learning) | [![SpringAll](https://github-readme-stats.vercel.app/api/pin/?username=wuyouzhuguli&repo=SpringAll&theme=dark)](https://github.com/wuyouzhuguli/SpringAll) |
+| [How2J 的 Java教程](https://how2j.cn/)                       | [蚂蚁课堂-课程列表](http://www.mayikt.com/freeOrMember?status=0) |
+| [Learn Java - Free Interactive Java Tutorial (learnjavaonline.org)](https://www.learnjavaonline.org/) |                                                              |
+| [![mall-learning](https://github-readme-stats.vercel.app/api/pin/?username=macrozheng&repo=mall-learning&theme=dark)](https://github.com/macrozheng/mall-learning) |                                                              |
 
 ## ⏳ 项目
 

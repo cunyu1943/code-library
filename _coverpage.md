@@ -1,4 +1,4 @@
-# amazing-softwares
+# amazing-programming-resources
 
 <br>
 <br>
