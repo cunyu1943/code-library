@@ -41,19 +41,11 @@
 
 ## 🔬 教程
 
-- [![onJava8](https://github-readme-stats.vercel.app/api/pin/?username=lingcoder&repo=onJava8&theme=dark)](https://github.com/lingcoder/onJava8/)
-- [![JavaGuide](https://github-readme-stats.vercel.app/api/pin/?username=Snailclimb&repo=JavaGuide&theme=dark)](https://github.com/Snailclimb/JavaGuide)
-- [![LearningNotes](https://github-readme-stats.vercel.app/api/pin/?username=francistao&repo=LearningNotes&theme=dark)](https://github.com/francistao/LearningNotes)
-- [![java-learning](https://github-readme-stats.vercel.app/api/pin/?username=brianway&repo=java-learning&theme=dark)](https://github.com/brianway/java-learning)
-- [![LearningJDK](https://github-readme-stats.vercel.app/api/pin/?username=kangjianwei&repo=LearningJDK&theme=dark)](https://github.com/kangjianwei/LearningJDK)
-- [![JavaSourceCodeLearning](https://github-readme-stats.vercel.app/api/pin/?username=coderbruis&repo=JavaSourceCodeLearning&theme=dark)](https://github.com/coderbruis/JavaSourceCodeLearning)
-- [![tutorials](https://github-readme-stats.vercel.app/api/pin/?username=eugenp&repo=tutorials&theme=dark)](https://github.com/eugenp/tutorials)
-
-|      |      |
+|[![onJava8](https://github-readme-stats.vercel.app/api/pin/?username=lingcoder&repo=onJava8&theme=dark)](https://github.com/lingcoder/onJava8/)|[![JavaGuide](https://github-readme-stats.vercel.app/api/pin/?username=Snailclimb&repo=JavaGuide&theme=dark)](https://github.com/Snailclimb/JavaGuide)|
 | ---- | ---- |
-|      |      |
-|      |      |
-|      |      |
+|[![tutorials](https://github-readme-stats.vercel.app/api/pin/?username=eugenp&repo=tutorials&theme=dark)](https://github.com/eugenp/tutorials)|[![JavaSourceCodeLearning](https://github-readme-stats.vercel.app/api/pin/?username=coderbruis&repo=JavaSourceCodeLearning&theme=dark)](https://github.com/coderbruis/JavaSourceCodeLearning)|
+|[![LearningJDK](https://github-readme-stats.vercel.app/api/pin/?username=kangjianwei&repo=LearningJDK&theme=dark)](https://github.com/kangjianwei/LearningJDK)|[![LearningNotes](https://github-readme-stats.vercel.app/api/pin/?username=francistao&repo=LearningNotes&theme=dark)](https://github.com/francistao/LearningNotes)|
+|[![java-learning](https://github-readme-stats.vercel.app/api/pin/?username=brianway&repo=java-learning&theme=dark)](https://github.com/brianway/java-learning)||
 
 
 
