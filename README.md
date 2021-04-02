@@ -95,6 +95,17 @@
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=yourkevin&repo=NiterForum&theme=dark)](https://github.com/yourkevin/NiterForum) | [![](https://github-readme-stats.vercel.app/api/pin/?username=codedrinker&repo=community&theme=dark)](https://github.com/codedrinker/community) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=cloudfavorites&repo=favorites-web&theme=dark)](https://github.com/cloudfavorites/favorites-web) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Qbian61&repo=forum-java&theme=dark)](https://github.com/Qbian61/forum-java) |
 
+### 🔧 脚手架
+
+|                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=jhipster&repo=generator-jhipster&theme=dark)](https://github.com/jhipster/generator-jhipster) | [![](https://github-readme-stats.vercel.app/api/pin/?username=alibaba&repo=COLA&theme=dark)](https://github.com/alibaba/COLA) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=zhangdaiscott&repo=jeecg-boot&theme=dark)](https://github.com/zhangdaiscott/jeecg-boot) | [![](https://github-readme-stats.vercel.app/api/pin/?username=zuihou&repo=lamp-cloud&theme=dark)](https://github.com/zuihou/lamp-cloud) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=renrenio&repo=renren-security&theme=dark)](https://github.com/renrenio/renren-security) | [![](https://github-readme-stats.vercel.app/api/pin/?username=yangzongzhuan&repo=RuoYi&theme=dark)](https://github.com/yangzongzhuan/RuoYi) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=chillzhuang&repo=SpringBlade&theme=dark)](https://github.com/chillzhuang/SpringBlade) | [![](https://github-readme-stats.vercel.app/api/pin/?username=stylefeng&repo=Guns&theme=dark)](https://github.com/stylefeng/Guns) |
+
+
+
 # 🐍 Python
 
 ## 🔬 教程
