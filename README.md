@@ -41,8 +41,9 @@
 
 ## 🔬 教程
 
-| [How2J 的 Java教程](https://how2j.cn/)                       | [蚂蚁课堂-课程列表](http://www.mayikt.com/freeOrMember?status=0) |
+|                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [How2J 的 Java教程](https://how2j.cn/)                       | [蚂蚁课堂-课程列表](http://www.mayikt.com/freeOrMember?status=0) |
 | [Learn Java - Free Interactive Java Tutorial](https://www.learnjavaonline.org/) | [Java教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1252599548343744) |
 | [Java 教程 \| 菜鸟教程](https://www.runoob.com/java/java-tutorial.html) | [Java Tutorial](https://fresh2refresh.com/java-tutorial/)    |
 | [![onJava8](https://github-readme-stats.vercel.app/api/pin/?username=lingcoder&repo=onJava8&theme=dark)](https://github.com/lingcoder/onJava8/) | [![JavaGuide](https://github-readme-stats.vercel.app/api/pin/?username=Snailclimb&repo=JavaGuide&theme=dark)](https://github.com/Snailclimb/JavaGuide) |
@@ -64,9 +65,8 @@
 
 ### 🏃‍♂️ 博客论坛
 
-|                                                              |                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=halo-dev&repo=halo&theme=dark)](https://github.com/halo-dev/halo) | [![](https://github-readme-stats.vercel.app/api/pin/?username=langhsu&repo=mblog&theme=dark)](https://github.com/langhsu/mblog) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=ZHENFENG13&repo=My-Blog&theme=dark)](https://github.com/ZHENFENG13/My-Blog) | [![](https://github-readme-stats.vercel.app/api/pin/?username=ZHENFENG13&repo=My-Blog-layui&theme=dark)](https://github.com/ZHENFENG13/My-Blog-layui) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=88250&repo=symphony&theme=dark)](https://github.com/88250/symphony) | [![](https://github-readme-stats.vercel.app/api/pin/?username=damoqiongqiu&repo=NiceFish&theme=dark)](https://github.com/damoqiongqiu/NiceFish) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=lenve&repo=VBlog&theme=dark)](https://github.com/lenve/VBlog) | [![](https://github-readme-stats.vercel.app/api/pin/?username=lenve&repo=vhr&theme=dark)](https://github.com/lenve/vhr) |
@@ -93,8 +93,9 @@
 
 ## 🔬 教程
 
-| [C 语言教程 \| 菜鸟教程](https://www.runoob.com/cprogramming/c-tutorial.html) | [C语言入门教程，C语言学习教程（非常详细）](http://c.biancheng.net/c/) |
+|                                                              |                                                              |
 | :----------------------------------------------------------- | ------------------------------------------------------------ |
+| [C 语言教程 \| 菜鸟教程](https://www.runoob.com/cprogramming/c-tutorial.html) | [C语言入门教程，C语言学习教程（非常详细）](http://c.biancheng.net/c/) |
 | [C语言入门教程-慕课网](http://www.imooc.com/learn/249)       | [ 笨办法学C](https://wizardforcel.gitbooks.io/lcthw/content/preface.html) |
 | [C 语言简明教程_C - 蓝桥云课](https://www.lanqiao.cn/courses/57) | [C语言基础入门 - 网易云课堂](https://study.163.com/course/introduction/1003030021.htm#/courseDetail) |
 | [C Programming Tutorial](https://fresh2refresh.com/c-programming/) |                                                              |
@@ -103,8 +104,9 @@
 
 ## ⏳ 项目
 
-| [C 语言实现 2048 游戏_C - 蓝桥云课](https://www.lanqiao.cn/courses/155) | [C语言：斗地主的发牌器 - 网易云课堂](https://study.163.com/course/introduction/1321006.htm#/courseDetail) |
+|                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [C 语言实现 2048 游戏_C - 蓝桥云课](https://www.lanqiao.cn/courses/155) | [C语言：斗地主的发牌器 - 网易云课堂](https://study.163.com/course/introduction/1321006.htm#/courseDetail) |
 | [C 语言实现简单计算器_C - 蓝桥云课](https://www.lanqiao.cn/courses/75) | [C 语言实现自己的编程语言_C - 蓝桥云课](https://www.lanqiao.cn/courses/670) |
 
 
@@ -129,20 +131,23 @@
 
 # 👣 Linux
 
-| [鸟哥的 Linux 私房菜](http://linux.vbird.org/) |      |
+|                                                |      |
 | ---------------------------------------------- | ---- |
+| [鸟哥的 Linux 私房菜](http://linux.vbird.org/) |      |
 |                                                |      |
 
 # 🎓 Git
 
-| [LearnGitBranching](https://learngitbranching.js.org/)       | [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/) |
+|                                                              |                                                             |
 | ------------------------------------------------------------ | ----------------------------------------------------------- |
+| [LearnGitBranching](https://learngitbranching.js.org/)       | [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=firstcontributions&repo=first-contributions&theme=dark)](https://github.com/firstcontributions/first-contributions) |                                                             |
 
 # 🎼 人工智能
 
-| [机器学习速成课程  \| Google Developers](https://developers.google.cn/machine-learning/crash-course) | [《动手学深度学习》](https://zh-v2.d2l.ai/) |
+|                                                              |                                             |
 | ------------------------------------------------------------ | ------------------------------------------- |
+| [机器学习速成课程  \| Google Developers](https://developers.google.cn/machine-learning/crash-course) | [《动手学深度学习》](https://zh-v2.d2l.ai/) |
 |                                                              |                                             |
 
 # 📞 联系我
