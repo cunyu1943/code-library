@@ -41,17 +41,12 @@
 
 ## 🔬 教程
 
-| [![onJava8](https://github-readme-stats.vercel.app/api/pin/?username=lingcoder&repo=onJava8&theme=dark)](https://github.com/lingcoder/onJava8/) |[![JavaGuide](https://github-readme-stats.vercel.app/api/pin/?username=Snailclimb&repo=JavaGuide&theme=dark)](https://github.com/Snailclimb/JavaGuide)|[![LearningNotes](https://github-readme-stats.vercel.app/api/pin/?username=francistao&repo=LearningNotes&theme=dark)](https://github.com/francistao/LearningNotes)|[![java-learning](https://github-readme-stats.vercel.app/api/pin/?username=brianway&repo=java-learning&theme=dark)](https://github.com/brianway/java-learning)|
-| ------------------------------------------------------------ | ---- | ---- | ---- |
-|                                                              |      |      |      |
+[![onJava8](https://github-readme-stats.vercel.app/api/pin/?username=lingcoder&repo=onJava8&theme=dark)](https://github.com/lingcoder/onJava8/)
+[![JavaGuide](https://github-readme-stats.vercel.app/api/pin/?username=Snailclimb&repo=JavaGuide&theme=dark)](https://github.com/Snailclimb/JavaGuide)
+[![LearningNotes](https://github-readme-stats.vercel.app/api/pin/?username=francistao&repo=LearningNotes&theme=dark)](https://github.com/francistao/LearningNotes)
+[![java-learning](https://github-readme-stats.vercel.app/api/pin/?username=brianway&repo=java-learning&theme=dark)](https://github.com/brianway/java-learning)
+[![LearningJDK](https://github-readme-stats.vercel.app/api/pin/?username=kangjianwei&repo=LearningJDK&theme=dark)](https://github.com/kangjianwei/LearningJDK)
 
-
-
--   [On Java 8](https://lingcoder.github.io/OnJava8/#/)：《Thinking in Java》 第 5 版
--   [JavaGuide](https://github.com/Snailclimb/JavaGuide): 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
--   [LearningNotes](https://github.com/francistao/LearningNotes)
--   [java-learning](https://github.com/brianway/java-learning): 旨在打造在线最佳的 Java 学习笔记，含博客讲解和源码实例，包括 Java SE 和 Java Web 
--   [LearningJDK](https://github.com/kangjianwei/LearningJDK): JDK源码阅读笔记
 -   [JavaSourceCodeLearning](https://github.com/coderbruis/JavaSourceCodeLearning): Java流行框架源码分析：Spring源码、SpringBoot源码、SpringAOP源码、SpringSecurity源码、SpringSecurity OAuth2源码、JDK源码、Netty源码
 -   [tutorials](https://github.com/eugenp/tutorials): Just Announced - "Learn Spring Security OAuth"
 -   [SpringAll](https://github.com/wuyouzhuguli/SpringAll): 循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码
