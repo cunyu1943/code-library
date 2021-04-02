@@ -20,10 +20,10 @@
 -   项目类型：资料收集
 -   项目地址
 
-| 平台       | 地址                                           |
-| ---------- | ---------------------------------------------- |
+| 平台       | 地址                                                       |
+| ---------- | ---------------------------------------------------------- |
 | **Github** | https://github.com/cunyu1943/amazing-programming-resources |
-| **Gitee**  | https://github.com/cunyu1943/amazing-programming-resources |
+| **Gitee**  | https://gitee.com/cunyu1943/amazing-programming-resources  |
 
 欢迎大家推荐更多免费编程资源，如果有失效的，一定要及时提交 Issues ！如果对你有用，可以点击右上角 **Star** 💖💖💖 表示支持一下哦 🙏🙏🙏！
 
@@ -35,7 +35,7 @@
 
 温馨提示：
 
->  善用 Ctrl + F 快捷方式
+>  善用 Ctrl + F 快捷方式，资源排名不分先后，取决于添加的时间 ~
 
 # ☕ Java
 
