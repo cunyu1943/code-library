@@ -106,6 +106,12 @@
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=renrenio&repo=renren-security&theme=dark)](https://github.com/renrenio/renren-security) | [![](https://github-readme-stats.vercel.app/api/pin/?username=yangzongzhuan&repo=RuoYi&theme=dark)](https://github.com/yangzongzhuan/RuoYi) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=chillzhuang&repo=SpringBlade&theme=dark)](https://github.com/chillzhuang/SpringBlade) | [![](https://github-readme-stats.vercel.app/api/pin/?username=stylefeng&repo=Guns&theme=dark)](https://github.com/stylefeng/Guns) |
 
+### 🛒 系统管理
+
+|                                                              |      |
+| ------------------------------------------------------------ | ---- |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=thinkgem&repo=jeesite4&theme=dark)](https://github.com/thinkgem/jeesite4) |      |
+
 
 
 # 🐍 Python
@@ -142,6 +148,7 @@
 | [C语言入门教程-慕课网](http://www.imooc.com/learn/249)       | [ 笨办法学C](https://wizardforcel.gitbooks.io/lcthw/content/preface.html) |
 | [C 语言简明教程_C - 蓝桥云课](https://www.lanqiao.cn/courses/57) | [C语言基础入门 - 网易云课堂](https://study.163.com/course/introduction/1003030021.htm#/courseDetail) |
 | [C Programming Tutorial](https://fresh2refresh.com/c-programming/) |                                                              |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=hairrrrr&repo=C-CrashCourse&theme=dark)](https://github.com/hairrrrr/C-CrashCourse) |                                                              |
 
 
 
@@ -165,14 +172,23 @@
 | [C++入门教程，C++基础教程](http://c.biancheng.net/cplus/)    | [C++ 教程_w3cschool](https://www.w3cschool.cn/cpp/)          |
 | [C++教程™ ](https://www.yiibai.com/cplusplus/)               | [C++在线教程 ](http://gitbook.net/cplusplus/index.html)      |
 | [C++ Tutorial](https://fresh2refresh.com/cpp-tutorial/)      | [The C++ Resources Network](https://www.cplusplus.com/)      |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=Light-City&repo=CPlusPlusThings&theme=dark)](https://github.com/Light-City/CPlusPlusThings) | [![](https://github-readme-stats.vercel.app/api/pin/?username=wuye9036&repo=CppTemplateTutorial&theme=dark)](https://github.com/wuye9036/CppTemplateTutorial) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=CoatiSoftware&repo=Sourcetrail&theme=dark)](https://github.com/CoatiSoftware/Sourcetrail) | [![](https://github-readme-stats.vercel.app/api/pin/?username=changkun&repo=modern-cpp-tutorial&theme=dark)](https://github.com/changkun/modern-cpp-tutorial) |
 
 
 
 ## ⏳ 项目
 
-|                                                              |      |
-| ------------------------------------------------------------ | ---- |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=plibither8&repo=2048.cpp&theme=dark)](https://github.com/plibither8/2048.cpp) |      |
+|                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=plibither8&repo=2048.cpp&theme=dark)](https://github.com/plibither8/2048.cpp) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Alinshans&repo=MyTinySTL&theme=dark)](https://github.com/Alinshans/MyTinySTL) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=calculator&theme=dark)](https://github.com/microsoft/calculator) | [![](https://github-readme-stats.vercel.app/api/pin/?username=taylorconor&repo=tinytetris&theme=dark)](https://github.com/taylorconor/tinytetris) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=xmuli&repo=chinessChess&theme=dark)](https://github.com/xmuli/chinessChess) | [![](https://github-readme-stats.vercel.app/api/pin/?username=xournalpp&repo=xournalpp&theme=dark)](https://github.com/xournalpp/xournalpp) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=mayerui&repo=sudoku&theme=dark)](https://github.com/mayerui/sudoku) | [![](https://github-readme-stats.vercel.app/api/pin/?username=ChungZH&repo=notepanda&theme=dark)](https://github.com/ChungZH/notepanda) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=yuzu-emu&repo=yuzu&theme=dark)](https://github.com/yuzu-emu/yuzu) | [![](https://github-readme-stats.vercel.app/api/pin/?username=christianparpart&repo=contour&theme=dark)](https://github.com/christianparpart/contour) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=amhndu&repo=SimpleNES&theme=dark)](https://github.com/amhndu/SimpleNES) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Neirth&repo=FreeNOS&theme=dark)](https://github.com/Neirth/FreeNOS) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=ithewei&repo=hplayer&theme=dark)](https://github.com/ithewei/hplayer) | [![](https://github-readme-stats.vercel.app/api/pin/?username=an-tao&repo=drogon&theme=dark)](https://github.com/an-tao/drogon) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=flameshot-org&repo=flameshot&theme=dark)](https://github.com/flameshot-org/flameshot) | [![](https://github-readme-stats.vercel.app/api/pin/?username=csb6&repo=html-plus-plus&theme=dark)](https://github.com/csb6/html-plus-plus) |
 
 
 
@@ -185,6 +201,7 @@
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=halfrost&repo=LeetCode-Go&theme=dark)](https://github.com/halfrost/LeetCode-Go) | [![](https://github-readme-stats.vercel.app/api/pin/?username=billryan&repo=algorithm-exercise&theme=dark)](https://github.com/billryan/algorithm-exercise) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=liweiwei1419&repo=LeetCode-Solutions-in-Good-Style&theme=dark)](https://github.com/liweiwei1419/LeetCode-Solutions-in-Good-Style) | [![](https://github-readme-stats.vercel.app/api/pin/?username=doocs&repo=leetcode&theme=dark)](https://github.com/doocs/leetcode) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=Xunzhuo&repo=Algorithm-Guide&theme=dark)](https://github.com/Xunzhuo/Algorithm-Guide) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Blankj&repo=awesome-java-leetcode&theme=dark)](https://github.com/Blankj/awesome-java-leetcode) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=TheAlgorithms&repo=C-Plus-Plus&theme=dark)](https://github.com/TheAlgorithms/C-Plus-Plus) |                                                              |
 
 # 👣 Linux
 
