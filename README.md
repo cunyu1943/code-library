@@ -53,41 +53,25 @@
 
 ## ⏳ 项目
 
--   [MCMS](https://gitee.com/mingSoft/MCMS): 完整开源！基于SpringBoot 2架构，前端基于vue、element ui。每月28定期更新版本，为开发者提供上百套免费模板,同时提供适用的插件（文章、商城、微信、论坛、会员、评论、支付、积分、工作流、任务调度等...），一套简单好用的开源系统、一整套优质的开源生态内容体系。铭飞的使命就是降低开发成本提高开发效率，提供全方位的企业级开发解决方案 
-
 ### 🏃‍♀️ 电商
 
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=macrozheng&repo=mall&theme=dark)](https://github.com/macrozheng/mall) | [![mall4j](https://github-readme-stats.vercel.app/api/pin/?username=gz-yami&repo=mall4j&theme=dark)](https://github.com/gz-yami/mall4j) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              |
-|                                                              |                                                              |
-|                                                              |                                                              |
-
-
-
--   [miaosha](https://github.com/qiurunze123/miaosha): ⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓
--   [newbee-mall](https://github.com/newbee-ltd/newbee-mall): newbee-mall 项目（新蜂商城）是一套电商系统，包括 newbee-mall 商城系统及 newbee-mall-admin 商城后台管理系统，基于 Spring Boot 2.X 及相关技术栈开发。 前台商城系统包含首页门户、商品分类、新品上线、首页轮播、商品推荐、商品搜索、商品展示、购物车、订单结算、订单流程、个人订单管理、会员中心、帮助中心等模块。 后台管理系统包含数据面板、轮播图管理、商品管理、订单管理、会员管理、分类管理、设置等模块。
--   [paascloud-master](https://github.com/paascloud/paascloud-master): spring cloud + vue + oAuth2.0全家桶实战，前后端分离模拟商城，完整的购物流程、后端运营平台，可以实现快速搭建企业级微服务项目。支持微信登录等三方登录。
--   [onemall](https://github.com/YunaiV/onemall): 芋道 mall 商城，基于微服务的思想，构建在 B2C 电商场景下的项目实战。核心技术栈，是 Spring Boot + Dubbo 。未来，会重构成 Spring Cloud Alibaba 。
--   [mall-swarm](https://github.com/macrozheng/mall-swarm): mall-swarm是一套微服务商城系统，采用了 Spring Cloud Hoxton & Alibaba、Spring Boot 2.3、Oauth2、MyBatis、Docker、Elasticsearch、Kubernetes等核心技术，同时提供了基于Vue的管理后台方便快速搭建系统。mall-swarm在电商业务的基础集成了注册中心、配置中心、监控中心、网关等系统功能。文档齐全，附带全套Spring Cloud教程。
--   [litemall](https://github.com/linlinjava/litemall): 又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端 
--   [xmall](https://github.com/Exrick/xmall): 基于SOA架构的分布式电商购物商城 前后端分离 前台商城:Vue全家桶 后台管理系统:Dubbo/SSM/Elasticsearch/Redis/MySQL/ActiveMQ/Shiro/Zookeeper等
--   [Seckill](https://github.com/hfbin/Seckill): 基于 SpringBoot+Mybatis+Redis+RabbitMQ 秒杀系统
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=qiurunze123&repo=miaosha&theme=dark)](https://github.com/qiurunze123/miaosha) | [![](https://github-readme-stats.vercel.app/api/pin/?username=newbee-ltd&repo=newbee-mall&theme=dark)](https://github.com/newbee-ltd/newbee-mall) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=paascloud&repo=paascloud-master&theme=dark)](https://github.com/paascloud/paascloud-master) | [![](https://github-readme-stats.vercel.app/api/pin/?username=YunaiV&repo=onemall&theme=dark)](https://github.com/YunaiV/onemall) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=macrozheng&repo=mall-swarm&theme=dark)](https://github.com/macrozheng/mall-swarm) | [![](https://github-readme-stats.vercel.app/api/pin/?username=linlinjava&repo=litemall&theme=dark)](https://github.com/linlinjava/litemall) |
+|[![](https://github-readme-stats.vercel.app/api/pin/?username=hfbin&repo=Seckill&theme=dark)](https://github.com/hfbin/Seckill)|[![](https://github-readme-stats.vercel.app/api/pin/?username=Exrick&repo=xmall&theme=dark)](https://github.com/Exrick/xmall)|
 
 ### 🏃‍♂️ 博客论坛
 
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=halo-dev&repo=halo&theme=dark)](https://github.com/halo-dev/halo) | [![](https://github-readme-stats.vercel.app/api/pin/?username=langhsu&repo=mblog&theme=dark)](https://github.com/langhsu/mblog) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=ZHENFENG13&repo=My-Blog&theme=dark)](https://github.com/ZHENFENG13/My-Blog) | [![](https://github-readme-stats.vercel.app/api/pin/?username=ZHENFENG13&repo=My-Blog-layui&theme=dark)](https://github.com/ZHENFENG13/My-Blog-layui) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=88250&repo=symphony&theme=dark)](https://github.com/88250/symphony) | [![](https://github-readme-stats.vercel.app/api/pin/?username=damoqiongqiu&repo=NiceFish&theme=dark)](https://github.com/damoqiongqiu/NiceFish) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=lenve&repo=VBlog&theme=dark)](https://github.com/lenve/VBlog) | [![](https://github-readme-stats.vercel.app/api/pin/?username=lenve&repo=vhr&theme=dark)](https://github.com/lenve/vhr) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=yourkevin&repo=NiterForum&theme=dark)](https://github.com/yourkevin/NiterForum) | [![](https://github-readme-stats.vercel.app/api/pin/?username=codedrinker&repo=community&theme=dark)](https://github.com/codedrinker/community) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=cloudfavorites&repo=favorites-web&theme=dark)](https://github.com/cloudfavorites/favorites-web) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Qbian61&repo=forum-java&theme=dark)](https://github.com/Qbian61/forum-java) |
 
--   [symphony](https://github.com/88250/symphony): 🎶 一款用 Java 实现的现代化社区（论坛/问答/BBS/社交网络/博客）系统平台
--   [NiceFish](https://github.com/damoqiongqiu/NiceFish): NiceFish（美人鱼） 是一个系列项目，目标是示范前后端分离的开发模式:前端浏览器、移动端、Electron 环境中的各种开发模式；后端有两个版本：SpringBoot 版本和 SpringCloud 版本
--   [VBlog](https://github.com/lenve/VBlog): V部落，Vue+SpringBoot实现的多用户博客管理平台! 
--   [NiterForum](https://github.com/yourkevin/NiterForum): 尼特社区-NiterForum-一个论坛/社区程序。后端Springboot/MyBatis/Maven/MySQL，前端Thymeleaf/Layui。可供初学者，学习、交流使用，喜欢的话，恳请给个star(*❦ω❦)。同时我也更新了NiterApp，完美适配NiterForum，欢迎移步md下载体验
--   [community](https://github.com/codedrinker/community): 开源论坛、问答系统，现有功能提问、回复、通知、最新、最热、消除零回复功能。功能持续更新中…… 技术栈 Spring、Spring Boot、MyBatis、MySQL/H2、Bootstrap
--   [favorites-web](https://github.com/cloudfavorites/favorites-web): 云收藏 Spring Boot 2.X 开源项目
--   [vhr](https://github.com/lenve/vhr): 微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发
--   [forum-java](https://github.com/Qbian61/forum-java): 一款用 Java（spring boot） 实现的现代化社区（论坛/问答/BBS/社交网络/博客）系统平台。
 
 # 🐍 Python
 
@@ -108,13 +92,18 @@
 
 ## 🔬 教程
 
-| [C 语言教程 \| 菜鸟教程](https://www.runoob.com/cprogramming/c-tutorial.html) | [C语言入门教程，C语言学习教程（非常详细） (biancheng.net)](http://c.biancheng.net/c/) |
+| [C 语言教程 \| 菜鸟教程](https://www.runoob.com/cprogramming/c-tutorial.html) | [C语言入门教程，C语言学习教程（非常详细）](http://c.biancheng.net/c/) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-|                                                              |                                                              |
+| [C语言入门教程-慕课网](http://www.imooc.com/learn/249)       | [ 笨办法学C](https://wizardforcel.gitbooks.io/lcthw/content/preface.html) |
+| [C 语言简明教程_C - 蓝桥云课](https://www.lanqiao.cn/courses/57) | [C语言基础入门 - 网易云课堂](https://study.163.com/course/introduction/1003030021.htm#/courseDetail) |
 
 
 
 ## ⏳ 项目
+
+| [C 语言实现 2048 游戏_C - 蓝桥云课](https://www.lanqiao.cn/courses/155) | [C语言：斗地主的发牌器 - 网易云课堂](https://study.163.com/course/introduction/1321006.htm#/courseDetail) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [C 语言实现简单计算器_C - 蓝桥云课](https://www.lanqiao.cn/courses/75) | [C 语言实现自己的编程语言_C - 蓝桥云课](https://www.lanqiao.cn/courses/670) |
 
 
 
@@ -132,18 +121,21 @@
 
 # 👣 Linux
 
--   [鸟哥的 Linux 私房菜](http://linux.vbird.org/)
+| [鸟哥的 Linux 私房菜](http://linux.vbird.org/) |      |
+| ---------------------------------------------- | ---- |
+|                                                |      |
 
 # 🎓 Git
 
--   [LearnGitBranching](https://learngitbranching.js.org/)
--   [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/)
--   [first-contributions](https://github.com/firstcontributions/first-contributions): 🚀✨ Help beginners to contribute to open source projects
+| [LearnGitBranching](https://learngitbranching.js.org/)       | [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/) |
+| ------------------------------------------------------------ | ----------------------------------------------------------- |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=firstcontributions&repo=first-contributions&theme=dark)](https://github.com/firstcontributions/first-contributions) |                                                             |
 
 # 🎼 人工智能
 
--   [机器学习速成课程  | Google Developers](https://developers.google.cn/machine-learning/crash-course)
--   [《动手学深度学习》](https://zh-v2.d2l.ai/)
+| [机器学习速成课程  \| Google Developers](https://developers.google.cn/machine-learning/crash-course) | [《动手学深度学习》](https://zh-v2.d2l.ai/) |
+| ------------------------------------------------------------ | ------------------------------------------- |
+|                                                              |                                             |
 
 # 📞 联系我
 
