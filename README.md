@@ -38,13 +38,13 @@
 
 >  善用 Ctrl + F 快捷方式，资源排名不分先后，取决于添加的时间 ~
 
-# 💻 计算机基础
+# 💻 八股文
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=CyC2018&repo=CS-Notes&theme=dark)](https://github.com/CyC2018/CS-Notes) | [![](https://github-readme-stats.vercel.app/api/pin/?username=wolverinn&repo=Waking-Up&theme=dark)](https://github.com/wolverinn/Waking-Up/) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=frank-lam&repo=fullstack-tutorial&theme=dark)](https://github.com/frank-lam/fullstack-tutorial) | [![](https://github-readme-stats.vercel.app/api/pin/?username=0voice&repo=interview_internal_reference&theme=dark)](https://github.com/0voice/interview_internal_reference) |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=kdn251&repo=interviews&theme=dark)](https://github.com/kdn251/interviews/) |                                                              |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=kdn251&repo=interviews&theme=dark)](https://github.com/kdn251/interviews/) | [![](https://github-readme-stats.vercel.app/api/pin/?username=huihut&repo=interview&theme=dark)](https://github.com/huihut/interview/) |
 
 
 
@@ -71,6 +71,7 @@
 | [![LearningNotes](https://github-readme-stats.vercel.app/api/pin/?username=francistao&repo=LearningNotes&theme=dark)](https://github.com/francistao/LearningNotes) | [![](https://github-readme-stats.vercel.app/api/pin/?username=forezp&repo=SpringCloudLearning&theme=dark)](https://github.com/forezp/SpringCloudLearning) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=dyc87112&repo=SpringCloud-Learning&theme=dark)](https://github.com/dyc87112/SpringCloud-Learning) | [![](https://github-readme-stats.vercel.app/api/pin/?username=yinjihuan&repo=spring-cloud&theme=dark)](https://github.com/yinjihuan/spring-cloud) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=ityouknow&repo=spring-cloud-examples&theme=dark)](https://github.com/ityouknow/spring-cloud-examples) | [![](https://github-readme-stats.vercel.app/api/pin/?username=zhoutaoo&repo=SpringCloud&theme=dark)](https://github.com/zhoutaoo/SpringCloud) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=heibaiying&repo=BigData-Notes&theme=dark)](https://github.com/heibaiying/BigData-Notes) |                                                              |
 | [![mall-learning](https://github-readme-stats.vercel.app/api/pin/?username=macrozheng&repo=mall-learning&theme=dark)](https://github.com/macrozheng/mall-learning) |                                                              |
 
 ## ⏳ 项目
@@ -129,7 +130,7 @@
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=wistbean&repo=learn_python3_spider&theme=dark)](https://github.com/wistbean/learn_python3_spider) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Kr1s77&repo=Python-crawler-tutorial-starts-from-zero&theme=dark)](https://github.com/Kr1s77/Python-crawler-tutorial-starts-from-zero) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=CodecWang&repo=OpenCV-Python-Tutorial&theme=dark)](https://github.com/CodecWang/OpenCV-Python-Tutorial) | [![](https://github-readme-stats.vercel.app/api/pin/?username=hangsz&repo=pandas-tutorial&theme=dark)](https://github.com/hangsz/pandas-tutorial) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=ethan-funny&repo=explore-python&theme=dark)](https://github.com/ethan-funny/explore-python) | [![](https://github-readme-stats.vercel.app/api/pin/?username=realpython&repo=python-guide&theme=dark)](https://github.com/realpython/python-guide) |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=yidao620c&repo=python3-cookbook&theme=dark)](https://github.com/yidao620c/python3-cookbook) |                                                              |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=yidao620c&repo=python3-cookbook&theme=dark)](https://github.com/yidao620c/python3-cookbook) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Jack-Cherish&repo=PythonPark&theme=dark)](https://github.com/Jack-Cherish/PythonPark) |
 
 ## ⏳ 项目
 
@@ -204,6 +205,7 @@
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=Advanced-Frontend&repo=Daily-Interview-Question&theme=dark)](https://github.com/Advanced-Frontend/Daily-Interview-Question) | [![](https://github-readme-stats.vercel.app/api/pin/?username=InterviewMap&repo=CS-Interview-Knowledge-Map&theme=dark)](https://github.com/InterviewMap/CS-Interview-Knowledge-Map) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=paddingme&repo=Front-end-Web-Development-Interview-Question&theme=dark)](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) | [![](https://github-readme-stats.vercel.app/api/pin/?username=yygmind&repo=blog&theme=dark)](https://github.com/yygmind/blog) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=ascoders&repo=weekly&theme=dark)](https://github.com/ascoders/weekly) | [![](https://github-readme-stats.vercel.app/api/pin/?username=lefex&repo=FE&theme=dark)](https://github.com/lefex/FE) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=Web-Dev-For-Beginners&theme=dark)](https://github.com/microsoft/Web-Dev-For-Beginners) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Asabeneh&repo=30-Days-Of-React&theme=dark)](https://github.com/Asabeneh/30-Days-Of-React) |
 
 
 
@@ -224,6 +226,7 @@
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=keon&repo=algorithms&theme=dark)](https://github.com/keon/algorithms) | [![](https://github-readme-stats.vercel.app/api/pin/?username=jeffgerickson&repo=algorithms&theme=dark)](https://github.com/jeffgerickson/algorithms) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=raywenderlich&repo=swift-algorithm-club&theme=dark)](https://github.com/raywenderlich/swift-algorithm-club) | [![](https://github-readme-stats.vercel.app/api/pin/?username=tayllan&repo=awesome-algorithms&theme=dark)](https://github.com/tayllan/awesome-algorithms) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=wangzheng0822&repo=algo&theme=dark)](https://github.com/wangzheng0822/algo) | [![](https://github-readme-stats.vercel.app/api/pin/?username=liuxinyu95&repo=AlgoXY&theme=dark)](https://github.com/liuxinyu95/AlgoXY) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=Dairongpeng&repo=algorithm-note&theme=dark)](https://github.com/Dairongpeng/algorithm-note) |                                                              |
 
 # 👣 Linux
 
@@ -240,19 +243,32 @@
 
 # 🎓 Git
 
-|                                                              |                                                             |
-| ------------------------------------------------------------ | ----------------------------------------------------------- |
-| [LearnGitBranching](https://learngitbranching.js.org/)       | [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/) |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=firstcontributions&repo=first-contributions&theme=dark)](https://github.com/firstcontributions/first-contributions) |                                                             |
+|                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [LearnGitBranching](https://learngitbranching.js.org/)       | [猴子都能懂的GIT入门](https://backlog.com/git-tutorial/cn/)  |
+| [Git教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/896043488029600) | [Git - Book](https://git-scm.com/book/zh/v2)                 |
+| [git - the simple guide - no deep shit! ](https://rogerdudler.github.io/git-guide/index.zh.html) |                                                              |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=firstcontributions&repo=first-contributions&theme=dark)](https://github.com/firstcontributions/first-contributions) | [![](https://github-readme-stats.vercel.app/api/pin/?username=521xueweihan&repo=git-tips&theme=dark)](https://github.com/521xueweihan/git-tips) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=twtrubiks&repo=Git-Tutorials&theme=dark)](https://github.com/twtrubiks/Git-Tutorials) |                                                              |
 
 # 🎼 人工智能
 
-|                                                              |                                             |
-| ------------------------------------------------------------ | ------------------------------------------- |
-| [机器学习速成课程  \| Google Developers](https://developers.google.cn/machine-learning/crash-course) | [《动手学深度学习》](https://zh-v2.d2l.ai/) |
-|                                                              |                                             |
-
-# 
+|                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [机器学习速成课程  \| Google Developers](https://developers.google.cn/machine-learning/crash-course) | [《动手学深度学习》 — 动手学深度学习 2.0.0](https://zh-v2.d2l.ai/) |
+| [机器学习个人笔记-目录](http://www.ai-start.com/ml2014/)     |                                                              |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=jikexueyuanwiki&repo=tensorflow-zh&theme=dark)](https://github.com/jikexueyuanwiki/tensorflow-zh) | [![](https://github-readme-stats.vercel.app/api/pin/?username=lcylmhlcy&repo=Awesome-algorithm-interview&theme=dark)](https://github.com/lcylmhlcy/Awesome-algorithm-interview) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=apachecn&repo=AiLearning&theme=dark)](https://github.com/apachecn/AiLearning) | [![](https://github-readme-stats.vercel.app/api/pin/?username=fengdu78&repo=deeplearning_ai_books&theme=dark)](https://github.com/fengdu78/deeplearning_ai_books) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=nndl&repo=nndl.github.io&theme=dark)](https://github.com/nndl/nndl.github.io) | [![](https://github-readme-stats.vercel.app/api/pin/?username=zergtant&repo=pytorch-handbook&theme=dark)](https://github.com/zergtant/pytorch-handbook) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=NLP-LOVE&repo=ML-NLP&theme=dark)](https://github.com/NLP-LOVE/ML-NLP) | [![](https://github-readme-stats.vercel.app/api/pin/?username=chenyuntc&repo=pytorch-book&theme=dark)](https://github.com/chenyuntc/pytorch-book) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=ShusenTang&repo=Dive-into-DL-PyTorch&theme=dark)](https://github.com/ShusenTang/Dive-into-DL-PyTorch) | [![](https://github-readme-stats.vercel.app/api/pin/?username=MorvanZhou&repo=PyTorch-Tutorial&theme=dark)](https://github.com/MorvanZhou/PyTorch-Tutorial) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=apachecn&repo=ai-roadmap&theme=dark)](https://github.com/apachecn/ai-roadmap) | [![](https://github-readme-stats.vercel.app/api/pin/?username=MLEveryday&repo=practicalAI-cn&theme=dark)](https://github.com/MLEveryday/practicalAI-cn) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=amusi&repo=AI-Job-Notes&theme=dark)](https://github.com/amusi/AI-Job-Notes) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Yorko&repo=mlcourse.ai&theme=dark)](https://github.com/Yorko/mlcourse.ai) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=MorvanZhou&repo=Reinforcement-learning-with-tensorflow&theme=dark)](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow) | [![](https://github-readme-stats.vercel.app/api/pin/?username=fastai&repo=course-v3&theme=dark)](https://github.com/fastai/course-v3) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=weslynn&repo=AlphaTree-graphic-deep-neural-network&theme=dark)](https://github.com/weslynn/AlphaTree-graphic-deep-neural-network) | [![](https://github-readme-stats.vercel.app/api/pin/?username=girls-in-ai&repo=Girls-In-AI&theme=dark)](https://github.com/girls-in-ai/Girls-In-AI) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=scutan90&repo=DeepLearning-500-questions&theme=dark)](https://github.com/scutan90/DeepLearning-500-questions) | [![](https://github-readme-stats.vercel.app/api/pin/?username=NLP-LOVE&repo=Introduction-NLP&theme=dark)](https://github.com/NLP-LOVE/Introduction-NLP) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=duoergun0729&repo=nlp&theme=dark)](https://github.com/duoergun0729/nlp) | [![](https://github-readme-stats.vercel.app/api/pin/?username=linjinjin123&repo=awesome-AIOps&theme=dark)](https://github.com/linjinjin123/awesome-AIOps) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=team-learning-data-mining&theme=dark)](https://github.com/datawhalechina/team-learning-data-mining) | [![](https://github-readme-stats.vercel.app/api/pin/?username=fengdu78&repo=WZU-machine-learning-course&theme=dark)](https://github.com/fengdu78/WZU-machine-learning-course) |
 
 # 📞 联系我
 
