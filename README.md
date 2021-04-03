@@ -108,7 +108,7 @@
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=renrenio&repo=renren-security&theme=dark)](https://github.com/renrenio/renren-security) | [![](https://github-readme-stats.vercel.app/api/pin/?username=yangzongzhuan&repo=RuoYi&theme=dark)](https://github.com/yangzongzhuan/RuoYi) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=chillzhuang&repo=SpringBlade&theme=dark)](https://github.com/chillzhuang/SpringBlade) | [![](https://github-readme-stats.vercel.app/api/pin/?username=stylefeng&repo=Guns&theme=dark)](https://github.com/stylefeng/Guns) |
 
-### 🛒 系统管理
+### 🛒 管理系统
 
 |                                                              |      |
 | ------------------------------------------------------------ | ---- |
@@ -131,6 +131,7 @@
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=CodecWang&repo=OpenCV-Python-Tutorial&theme=dark)](https://github.com/CodecWang/OpenCV-Python-Tutorial) | [![](https://github-readme-stats.vercel.app/api/pin/?username=hangsz&repo=pandas-tutorial&theme=dark)](https://github.com/hangsz/pandas-tutorial) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=ethan-funny&repo=explore-python&theme=dark)](https://github.com/ethan-funny/explore-python) | [![](https://github-readme-stats.vercel.app/api/pin/?username=realpython&repo=python-guide&theme=dark)](https://github.com/realpython/python-guide) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=yidao620c&repo=python3-cookbook&theme=dark)](https://github.com/yidao620c/python3-cookbook) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Jack-Cherish&repo=PythonPark&theme=dark)](https://github.com/Jack-Cherish/PythonPark) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=taizilongxu&repo=interview_python&theme=dark)](https://github.com/taizilongxu/interview_python) |                                                              |
 
 ## ⏳ 项目
 
@@ -226,7 +227,7 @@
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=keon&repo=algorithms&theme=dark)](https://github.com/keon/algorithms) | [![](https://github-readme-stats.vercel.app/api/pin/?username=jeffgerickson&repo=algorithms&theme=dark)](https://github.com/jeffgerickson/algorithms) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=raywenderlich&repo=swift-algorithm-club&theme=dark)](https://github.com/raywenderlich/swift-algorithm-club) | [![](https://github-readme-stats.vercel.app/api/pin/?username=tayllan&repo=awesome-algorithms&theme=dark)](https://github.com/tayllan/awesome-algorithms) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=wangzheng0822&repo=algo&theme=dark)](https://github.com/wangzheng0822/algo) | [![](https://github-readme-stats.vercel.app/api/pin/?username=liuxinyu95&repo=AlgoXY&theme=dark)](https://github.com/liuxinyu95/AlgoXY) |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=Dairongpeng&repo=algorithm-note&theme=dark)](https://github.com/Dairongpeng/algorithm-note) |                                                              |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=Dairongpeng&repo=algorithm-note&theme=dark)](https://github.com/Dairongpeng/algorithm-note) | [![](https://github-readme-stats.vercel.app/api/pin/?username=wind-liang&repo=leetcode&theme=dark)](https://github.com/wind-liang/leetcode) |
 
 # 👣 Linux
 
