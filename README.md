@@ -199,6 +199,9 @@
 
 ## 🍭 教程
 
+|                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=unknwon&repo=the-way-to-go_ZH_CN&theme=dark)](https://github.com/unknwon/the-way-to-go_ZH_CN) | [![](https://github-readme-stats.vercel.app/api/pin/?username=xinliangnote&repo=Go&theme=dark)](https://github.com/xinliangnote/Go) |
 
 
 
