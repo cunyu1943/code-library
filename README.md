@@ -229,6 +229,7 @@
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=raywenderlich&repo=swift-algorithm-club&theme=dark)](https://github.com/raywenderlich/swift-algorithm-club) | [![](https://github-readme-stats.vercel.app/api/pin/?username=tayllan&repo=awesome-algorithms&theme=dark)](https://github.com/tayllan/awesome-algorithms) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=wangzheng0822&repo=algo&theme=dark)](https://github.com/wangzheng0822/algo) | [![](https://github-readme-stats.vercel.app/api/pin/?username=liuxinyu95&repo=AlgoXY&theme=dark)](https://github.com/liuxinyu95/AlgoXY) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=Dairongpeng&repo=algorithm-note&theme=dark)](https://github.com/Dairongpeng/algorithm-note) | [![](https://github-readme-stats.vercel.app/api/pin/?username=wind-liang&repo=leetcode&theme=dark)](https://github.com/wind-liang/leetcode) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=youngyangyang04&repo=leetcode-master&theme=dark)](https://github.com/youngyangyang04/leetcode-master) |                                                              |
 
 # 👣 Linux
 
