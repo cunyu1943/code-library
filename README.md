@@ -132,7 +132,7 @@
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=CodecWang&repo=OpenCV-Python-Tutorial&theme=dark)](https://github.com/CodecWang/OpenCV-Python-Tutorial) | [![](https://github-readme-stats.vercel.app/api/pin/?username=hangsz&repo=pandas-tutorial&theme=dark)](https://github.com/hangsz/pandas-tutorial) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=ethan-funny&repo=explore-python&theme=dark)](https://github.com/ethan-funny/explore-python) | [![](https://github-readme-stats.vercel.app/api/pin/?username=realpython&repo=python-guide&theme=dark)](https://github.com/realpython/python-guide) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=yidao620c&repo=python3-cookbook&theme=dark)](https://github.com/yidao620c/python3-cookbook) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Jack-Cherish&repo=PythonPark&theme=dark)](https://github.com/Jack-Cherish/PythonPark) |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=taizilongxu&repo=interview_python&theme=dark)](https://github.com/taizilongxu/interview_python) |                                                              |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=taizilongxu&repo=interview_python&theme=dark)](https://github.com/taizilongxu/interview_python) | [![](https://github-readme-stats.vercel.app/api/pin/?username=eastlakeside&repo=interpy-zh&theme=dark)](https://github.com/eastlakeside/interpy-zh) |
 
 ## ⏳ 项目
 
