@@ -138,7 +138,7 @@
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=bisguzar&repo=twitter-scraper&theme=dark)](https://github.com/bisguzar/twitter-scraper) | [![](https://github-readme-stats.vercel.app/api/pin/?username=sylnsfar&repo=qrcode&theme=dark)](https://github.com/sylnsfar/qrcode) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=bisguzar&repo=twitter-scraper&theme=dark)](https://github.com/bisguzar/twitter-scraper) | [![](https://github-readme-stats.vercel.app/api/pin/?username=hwxhw&repo=amazing-qr&theme=dark)](https://github.com/hwxhw/amazing-qr) |
 
 
 
@@ -227,6 +227,7 @@
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=paddingme&repo=Front-end-Web-Development-Interview-Question&theme=dark)](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) | [![](https://github-readme-stats.vercel.app/api/pin/?username=yygmind&repo=blog&theme=dark)](https://github.com/yygmind/blog) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=ascoders&repo=weekly&theme=dark)](https://github.com/ascoders/weekly) | [![](https://github-readme-stats.vercel.app/api/pin/?username=lefex&repo=FE&theme=dark)](https://github.com/lefex/FE) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=Web-Dev-For-Beginners&theme=dark)](https://github.com/microsoft/Web-Dev-For-Beginners) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Asabeneh&repo=30-Days-Of-React&theme=dark)](https://github.com/Asabeneh/30-Days-Of-React) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=godbasin&repo=vue-ebook&theme=dark)](https://github.com/godbasin/vue-ebook) |                                                              |
 
 
 
