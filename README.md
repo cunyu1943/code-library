@@ -86,6 +86,7 @@
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=paascloud&repo=paascloud-master&theme=dark)](https://github.com/paascloud/paascloud-master) | [![](https://github-readme-stats.vercel.app/api/pin/?username=YunaiV&repo=onemall&theme=dark)](https://github.com/YunaiV/onemall) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=macrozheng&repo=mall-swarm&theme=dark)](https://github.com/macrozheng/mall-swarm) | [![](https://github-readme-stats.vercel.app/api/pin/?username=linlinjava&repo=litemall&theme=dark)](https://github.com/linlinjava/litemall) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=hfbin&repo=Seckill&theme=dark)](https://github.com/hfbin/Seckill) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Exrick&repo=xmall&theme=dark)](https://github.com/Exrick/xmall) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=2227324689&repo=gpmall&theme=dark)](https://github.com/2227324689/gpmall) |                                                              |
 
 ### 🏃‍♂️ 博客/论坛
 
