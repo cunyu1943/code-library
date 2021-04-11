@@ -42,6 +42,8 @@
 
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [SQL Tutorial/zh - SQLZOO](https://sqlzoo.net/wiki/SQL_Tutorial/zh) | [自学SQL网(教程 视频 练习全套)](http://xuesql.cn/)           |
+| [SQL教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1177760294764384) |                                                              |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=CyC2018&repo=CS-Notes&theme=dark)](https://github.com/CyC2018/CS-Notes) | [![](https://github-readme-stats.vercel.app/api/pin/?username=wolverinn&repo=Waking-Up&theme=dark)](https://github.com/wolverinn/Waking-Up/) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=frank-lam&repo=fullstack-tutorial&theme=dark)](https://github.com/frank-lam/fullstack-tutorial) | [![](https://github-readme-stats.vercel.app/api/pin/?username=0voice&repo=interview_internal_reference&theme=dark)](https://github.com/0voice/interview_internal_reference) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=kdn251&repo=interviews&theme=dark)](https://github.com/kdn251/interviews/) | [![](https://github-readme-stats.vercel.app/api/pin/?username=huihut&repo=interview&theme=dark)](https://github.com/huihut/interview/) |
@@ -204,6 +206,7 @@
 |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=unknwon&repo=the-way-to-go_ZH_CN&theme=dark)](https://github.com/unknwon/the-way-to-go_ZH_CN) | [![](https://github-readme-stats.vercel.app/api/pin/?username=xinliangnote&repo=Go&theme=dark)](https://github.com/xinliangnote/Go) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=talkgo&repo=read&theme=dark)](https://github.com/talkgo/read) |                                                              |
 
 
 
