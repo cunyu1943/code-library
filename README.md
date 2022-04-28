@@ -1,6 +1,6 @@
-# 🎉 code-resources
+# 🎉 code-library
 
-💻 免费编程资源
+💻 编程资源库
 
 | ![GitHub watchers](https://img.shields.io/github/watchers/cunyu1943/code-resources?color=blueviolet&style=for-the-badge) | ![GitHub forks](https://img.shields.io/github/forks/cunyu1943/code-resources?color=orange&style=for-the-badge) | ![GitHub Repo stars](https://img.shields.io/github/stars/cunyu1943/code-resources?color=success&style=for-the-badge) | ![GitHub](https://img.shields.io/github/license/cunyu1943/code-resources?style=for-the-badge) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
