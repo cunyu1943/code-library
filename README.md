@@ -2,7 +2,7 @@
 
 💻 编程资源库
 
-| ![GitHub watchers](https://img.shields.io/github/watchers/cunyu1943/code-resources?color=blueviolet&style=for-the-badge) | ![GitHub forks](https://img.shields.io/github/forks/cunyu1943/code-resources?color=orange&style=for-the-badge) | ![GitHub Repo stars](https://img.shields.io/github/stars/cunyu1943/code-resources?color=success&style=for-the-badge) | ![GitHub](https://img.shields.io/github/license/cunyu1943/code-resources?style=for-the-badge) |
+| ![GitHub watchers](https://img.shields.io/github/watchers/cunyu1943/code-resources?color=blueviolet&style=for-the-badge) | ![GitHub forks](https://img.shields.io/github/forks/cunyu1943/code-resources?color=orange&style=for-the-badge) | ![GitHub Repo stars](https://img.shields.io/github/stars/cunyu1943/code-resources?color=success&style=for-the-badge) | ![GitHub](https://img.shields.io/github/license/cunyu1943/code-library?style=for-the-badge) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 >   温馨提示：多用 `Ctrl + F` 快捷键，资源排名不分先后，只取决于添加的时间 ~
