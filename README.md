@@ -19,7 +19,7 @@
 
 -   资源类别：资料
 
--   资源链接：https://github.com/cunyu1943/code-resources
+-   资源链接：https://github.com/cunyu1943/code-library
 -   资源简介：免费编程资源
 
 
