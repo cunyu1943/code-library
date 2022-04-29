@@ -140,18 +140,13 @@
 
 ## PHP
 
-| 资源链接                                                     | 资源说明           |
-| ------------------------------------------------------------ | ------------------ |
-| https://github.com/colinlet/PHP-Interview-QA                 | PHP 面试问答       |
-| https://github.com/wudi/PHP-Interview-Best-Practices-in-China | PHP 面试知识点汇总 |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=fighting41love&repo=funNLP&show_icons=true&theme=radical)](https://github.com/colinlet/PHP-Interview-QA) | [![](https://github-readme-stats.vercel.app/api/pin/?username=fighting41love&repo=funNLP&show_icons=true&theme=radical)](https://github.com/wudi/PHP-Interview-Best-Practices-in-China) |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 
 ## Python
 
-| 资源链接                                                     | 资源说明                |
-| ------------------------------------------------------------ | ----------------------- |
-| https://github.com/taizilongxu/interview_python              | 关于 Python 的面试题    |
-| https://github.com/leeguandong/Interview-code-practice-python | Python 实现的各类面试题 |
-| https://github.com/kenwoodjw/python_interview_question       | 关于 Python 的面试题    |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=taizilongxu&repo=interview_python&show_icons=true&theme=radical)](https://github.com/taizilongxu/interview_python) | [![](https://github-readme-stats.vercel.app/api/pin/?username=leeguandong&repo=Interview-code-practice-python&show_icons=true&theme=radical)](https://github.com/leeguandong/Interview-code-practice-python) | [![](https://github-readme-stats.vercel.app/api/pin/?username=kenwoodjw&repo=python_interview_question&show_icons=true&theme=radical)](https://github.com/kenwoodjw/python_interview_question) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ## 前端
 
@@ -197,10 +192,6 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=JushuangQiao&repo=Python-Offer&show_icons=true&theme=radical)](https://github.com/JushuangQiao/Python-Offer) | [![](https://github-readme-stats.vercel.app/api/pin/?username=doocs&repo=leetcode&show_icons=true&theme=radical)](https://github.com/doocs/leetcode) | [![](https://github-readme-stats.vercel.app/api/pin/?username=doocs&repo=coding-interview&show_icons=true&theme=radical)](https://github.com/doocs/coding-interview) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=UCodeUStory&repo=DataStructure&show_icons=true&theme=radical)](https://github.com/UCodeUStory/DataStructure) |                                                              |                                                              |
-
-
-
-
 
 # Authors
 
