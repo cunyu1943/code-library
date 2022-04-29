@@ -100,33 +100,13 @@
 
 ## Java
 
-### 学习
-
-| 资源链接                                              | 资源说明                                                     |
-| ----------------------------------------------------- | ------------------------------------------------------------ |
-| https://github.com/Snailclimb/JavaGuide               | 「Java 学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识 |
-| https://github.com/souyunku/DevBooks                  | Java、JVM、多线程、并发编程、设计模式等面试题                |
-| https://github.com/AobingJava/JavaFamily              | 【Java 面试 + Java 学习指南】 一份涵盖大部分 Java 程序员所需要掌握的核心知识 |
-| https://github.com/ZhongFuCheng3y/3y                  | 从 Java 基础、JavaWeb 基础到常用的框架再到面试题都有完整的教程 |
-| https://github.com/hadyang/interview                  | Java 笔试、面试 知识整理                                     |
-| https://github.com/xbox1994/Java-Interview            | 高级 Java 后台开发面试指南                                   |
-| https://github.com/h2pl/Java-Tutorial                 | Java 工程师面试复习指南                                      |
-| https://github.com/gzc426/Java-Interview              | Java 面试必会，直通 BAT                                      |
-| https://github.com/OUYANGSIHAI/JavaInterview          | Java 面试 + Java 后端技术学习指南                            |
-| https://github.com/shishan100/Java-Interview-Advanced | 互联网 Java 进阶面试训练营                                   |
-| https://github.com/hansonwang99/JavaCollection        | Java 学习指南 + 面试指南 + 资源分享 + 技术文章               |
-| https://github.com/xkcoding/spring-boot-demo          | Spring Boot 学习实战项目                                     |
-| https://github.com/scalad/Note                        | 常规 Java 工具，算法，加密，数据库等                         |
-| https://github.com/PansonPanson/Java-Notes            | 计算机科学基础知识、Java 开发、后端/服务端、面试相关         |
-| https://github.com/whx123/JavaHome                    | 一份超级详细的 Java 面试题                                   |
-| https://github.com/gsjqwyl/JavaInterview              | Java 面试整理                                                |
-| https://github.com/Snailclimb/JavaGuide-Interview     | JavaGuide 面试突击版                                         |
-
-| 资源链接                        | 资源说明                          |
-| ------------------------------- | --------------------------------- |
-| https://github.com/mindskip/xzs | Java + Vue 的前后端分离的考试系统 |
-
-
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=Snailclimb&repo=JavaGuide&show_icons=true&theme=radical)](https://github.com/Snailclimb/JavaGuide) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Snailclimb&repo=JavaGuide-Interview&show_icons=true&theme=radical)](https://github.com/Snailclimb/JavaGuide-Interview) | [![](https://github-readme-stats.vercel.app/api/pin/?username=AobingJava&repo=JavaFamily&show_icons=true&theme=radical)](https://github.com/AobingJava/JavaFamily) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=ZhongFuCheng3y&repo=3y&show_icons=true&theme=radical)](https://github.com/ZhongFuCheng3y/3y) | [![](https://github-readme-stats.vercel.app/api/pin/?username=hadyang&repo=interview&show_icons=true&theme=radical)](https://github.com/hadyang/interview) | [![](https://github-readme-stats.vercel.app/api/pin/?username=xbox1994&repo=Java-Interview&show_icons=true&theme=radical)](https://github.com/xbox1994/Java-Interview) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=h2pl&repo=Java-Tutorial&show_icons=true&theme=radical)](https://github.com/h2pl/Java-Tutorial) | [![](https://github-readme-stats.vercel.app/api/pin/?username=gzc426&repo=Java-Interview&show_icons=true&theme=radical)](https://github.com/gzc426/Java-Interview) | [![](https://github-readme-stats.vercel.app/api/pin/?username=hello-java-maker&repo=JavaInterview&show_icons=true&theme=radical)](https://github.com/hello-java-maker/JavaInterview) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=shishan100&repo=Java-Interview-Advanced&show_icons=true&theme=radical)](https://github.com/shishan100/Java-Interview-Advanced) | [![](https://github-readme-stats.vercel.app/api/pin/?username=hansonwang99&repo=JavaCollection&show_icons=true&theme=radical)](https://github.com/hansonwang99/JavaCollection) | [![](https://github-readme-stats.vercel.app/api/pin/?username=xkcoding&repo=spring-boot-demo&show_icons=true&theme=radical)](https://github.com/xkcoding/spring-boot-demo) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=scalad&repo=Note&show_icons=true&theme=radical)](https://github.com/scalad/Note) | [![](https://github-readme-stats.vercel.app/api/pin/?username=PansonPanson&repo=Java-Notes&show_icons=true&theme=radical)](https://github.com/PansonPanson/Java-Notes) | [![](https://github-readme-stats.vercel.app/api/pin/?username=whx123&repo=JavaHome&show_icons=true&theme=radical)](https://github.com/whx123/JavaHome) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=gsjqwyl&repo=JavaInterview&show_icons=true&theme=radical)](https://github.com/gsjqwyl/JavaInterview) | [![](https://github-readme-stats.vercel.app/api/pin/?username=mindskip&repo=xzs&show_icons=true&theme=radical)](https://github.com/mindskip/xzs) |                                                              |
 
 ## Node.JS
 
