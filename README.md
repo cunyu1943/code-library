@@ -60,27 +60,14 @@
 |                                                              |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![CS-Notes](https://github-readme-stats.vercel.app/api/pin/?username=CyC2018&repo=CS-Notes&show_icons=true&theme=radical)](https://github.com/CyC2018/CS-Notes) | [![Waking-Up](https://github-readme-stats.vercel.app/api/pin/?username=wolverinn&repo=Waking-Up&show_icons=true&theme=radical)](https://github.com/wolverinn/Waking-Up) | [![interview_internal_reference](https://github-readme-stats.vercel.app/api/pin/?username=0voice&repo=interview_internal_reference&show_icons=true&theme=radical)](https://github.com/0voice/interview_internal_reference) |
-| [![fullstack-tutorial](https://github-readme-stats.vercel.app/api/pin/?username=frank-lam&repo=fullstack-tutorial&show_icons=true&theme=radical)](https://github.com/frank-lam/fullstack-tutorial) | [![interviews](https://github-readme-stats.vercel.app/api/pin/?username=kdn251&repo=interviews&show_icons=true&theme=radical)](https://github.com/kdn251/interviews)                     | [![The-Art-Of-Programming-By-July](https://github-readme-stats.vercel.app/api/pin/?username=julycoding&repo=The-Art-Of-Programming-By-July&show_icons=true&theme=radical)](https://github.com/julycoding/The-Art-Of-Programming-By-July) |
+| [![fullstack-tutorial](https://github-readme-stats.vercel.app/api/pin/?username=frank-lam&repo=fullstack-tutorial&show_icons=true&theme=radical)](https://github.com/frank-lam/fullstack-tutorial) | [![interviews](https://github-readme-stats.vercel.app/api/pin/?username=kdn251&repo=interviews&show_icons=true&theme=radical)](https://github.com/kdn251/interviews) | [![The-Art-Of-Programming-By-July](https://github-readme-stats.vercel.app/api/pin/?username=julycoding&repo=The-Art-Of-Programming-By-July&show_icons=true&theme=radical)](https://github.com/julycoding/The-Art-Of-Programming-By-July) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=yifeikong&repo=reverse-interview-zh&show_icons=true&theme=radical)](https://github.com/yifeikong/reverse-interview-zh) | [![](https://github-readme-stats.vercel.app/api/pin/?username=HIT-Alibaba&repo=interview&show_icons=true&theme=radical)](https://github.com/HIT-Alibaba/interview) | [![](https://github-readme-stats.vercel.app/api/pin/?username=sty945&repo=bank_interview&show_icons=true&theme=radical)](https://github.com/sty945/bank_interview) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=resumejob&repo=interview-questions&show_icons=true&theme=radical)](https://github.com/resumejob/interview-questions) | [![](https://github-readme-stats.vercel.app/api/pin/?username=aylei&repo=interview&show_icons=true&theme=radical)](https://github.com/aylei/interview) | [![](https://github-readme-stats.vercel.app/api/pin/?username=chucheng92&repo=EasyJob&show_icons=true&theme=radical)](https://github.com/chucheng92/EasyJob) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=kdn251&repo=interviews&show_icons=true&theme=radical)](https://github.com/CodingDocs/programmer-advancement) | [![](https://github-readme-stats.vercel.app/api/pin/?username=conanhujinming&repo=tips_for_interview&show_icons=true&theme=radical)](https://github.com/conanhujinming/tips_for_interview) | [![](https://github-readme-stats.vercel.app/api/pin/?username=shfshanyue&repo=Daily-Question&show_icons=true&theme=radical)](https://github.com/shfshanyue/Daily-Question) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=zhengjianglong915&repo=note-of-interview&show_icons=true&theme=radical)](https://github.com/zhengjianglong915/note-of-interview) | [![](https://github-readme-stats.vercel.app/api/pin/?username=lengyue1024&repo=BAT_interviews&show_icons=true&theme=radical)](https://github.com/lengyue1024/BAT_interviews) | [![](https://github-readme-stats.vercel.app/api/pin/?username=FangWW&repo=Document&show_icons=true&theme=radical)](https://github.com/FangWW/Document) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=monklof&repo=Back-End-Developer-Interview-Questions&show_icons=true&theme=radical)](https://github.com/monklof/Back-End-Developer-Interview-Questions) |                                                              |                                                              |
 
 
-
-| 资源链接                                                     | 资源说明                                           |
-| ------------------------------------------------------------ | -------------------------------------------------- |
-| https://github.com/kdn251/interviews                         | 软件工程技术面试个人指南                           |
-| https://github.com/julycoding/The-Art-Of-Programming-By-July | 编程之法：面试和算法心得                           |
-| https://github.com/yifeikong/reverse-interview-zh            | 技术面试最后反问面试官的话                         |
-| https://github.com/HIT-Alibaba/interview                     | 笔试面试知识整理                                   |
-| https://github.com/sty945/bank_interview                     | 银行笔试面试经验分享及资料分享                     |
-| https://github.com/resumejob/interview-questions             | 腾讯，阿里，字节跳动，Shopee，美团，滴滴高频面试题 |
-| https://github.com/aylei/interview                           | 19 年初的后端社招面试经历                          |
-| https://github.com/ferrari014/EasyJob                        | 2021 互联网求职面试知识复习                        |
-| https://github.com/CodingDocs/programmer-advancement         | 程序员应该有的一些好习惯 + 面试必知事项！          |
-| https://github.com/conanhujinming/tips_for_interview         | 一些面试心得                                       |
-| https://github.com/shfshanyue/Daily-Question                 | 互联网大厂内推及大厂面经整理                       |
-| https://github.com/monklof/Back-End-Developer-Interview-Questions | 后端开发面试题                                     |
-| https://github.com/zhengjianglong915/note-of-interview       | 互联网面试笔记                                     |
-| https://github.com/lengyue1024/BAT_interviews                | 最新 BAT 面试题                                    |
-| https://github.com/FangWW/Document                           | 各种编程学习面试资料                               |
 
 ## Android
 
