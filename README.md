@@ -177,26 +177,19 @@
 
 ## 人工智能
 
-| 资源链接                                                     | 资源说明                                     |
-| ------------------------------------------------------------ | -------------------------------------------- |
-| https://github.com/amusi/Deep-Learning-Interview-Book        | 深度学习面试宝典                             |
-| https://github.com/weslynn/AlphaTree-graphic-deep-neural-network | 机器学习、深度学习、对抗神经网络等知识点解析 |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=amusi&repo=Deep-Learning-Interview-Book&show_icons=true&theme=radical)](https://github.com/amusi/Deep-Learning-Interview-Book) | [![](https://github-readme-stats.vercel.app/api/pin/?username=weslynn&repo=AlphaTree-graphic-deep-neural-network&show_icons=true&theme=radical)](https://github.com/weslynn/AlphaTree-graphic-deep-neural-network) |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 
 ### CV
 
-| 资源链接                                                     | 资源说明                                   |
-| ------------------------------------------------------------ | ------------------------------------------ |
-| https://github.com/lcylmhlcy/Awesome-algorithm-interview     | CV 方向面试问题及相关资料                  |
-| https://github.com/HarleysZhang/2020_algorithm_intern_information | 常见深度学习基础知识笔记、算法岗面试题答案 |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=lcylmhlcy&repo=Awesome-algorithm-interview&show_icons=true&theme=radical)](https://github.com/lcylmhlcy/Awesome-algorithm-interview) | [![](https://github-readme-stats.vercel.app/api/pin/?username=HarleysZhang&repo=2020_algorithm_intern_information&show_icons=true&theme=radical)](https://github.com/HarleysZhang/2020_algorithm_intern_information) |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 
 ### NLP
 
-| 资源链接                                       | 资源说明                                              |
-| ---------------------------------------------- | ----------------------------------------------------- |
-| https://github.com/NLP-LOVE/ML-NLP             | 针对机器学习、深度学习、NLP 面试的理论基础知识        |
-| https://github.com/DA-southampton/NLP_ability  | 总结梳理自然语言处理工程师( NLP )需要积累的各方面知识 |
-| https://github.com/songyingxin/NLPer-Interview | NLP 算法工程师相关的面试题                            |
-| https://github.com/fighting41love/funNLP       | 几乎最全的中文 NLP 资源库                             |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=NLP-LOVE&repo=ML-NLP&show_icons=true&theme=radical)](https://github.com/NLP-LOVE/ML-NLP) | [![](https://github-readme-stats.vercel.app/api/pin/?username=DA-southampton&repo=NLP_ability&show_icons=true&theme=radical)](https://github.com/DA-southampton/NLP_ability) | [![](https://github-readme-stats.vercel.app/api/pin/?username=songyingxin&repo=NLPer-Interview&show_icons=true&theme=radical)](https://github.com/songyingxin/NLPer-Interview) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=fighting41love&repo=funNLP&show_icons=true&theme=radical)](https://github.com/fighting41love/funNLP) |                                                              |                                                              |
 
 ## 数据结构与算法
 
