@@ -122,8 +122,6 @@
 | https://github.com/gsjqwyl/JavaInterview              | Java 面试整理                                                |
 | https://github.com/Snailclimb/JavaGuide-Interview     | JavaGuide 面试突击版                                         |
 
-### 项目
-
 | 资源链接                        | 资源说明                          |
 | ------------------------------- | --------------------------------- |
 | https://github.com/mindskip/xzs | Java + Vue 的前后端分离的考试系统 |
@@ -132,15 +130,14 @@
 
 ## Node.JS
 
-| 资源链接                                               | 资源说明       |
-| ------------------------------------------------------ | -------------- |
-| https://github.com/jimuyouyou/node-interview-questions | Node.js 面试题 |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=jimuyouyou&repo=node-interview-questions&show_icons=true&theme=radical)](https://github.com/jimuyouyou/node-interview-questions) |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
 
 
 
 ## PHP
 
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=fighting41love&repo=funNLP&show_icons=true&theme=radical)](https://github.com/colinlet/PHP-Interview-QA) | [![](https://github-readme-stats.vercel.app/api/pin/?username=fighting41love&repo=funNLP&show_icons=true&theme=radical)](https://github.com/wudi/PHP-Interview-Best-Practices-in-China) |      |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=colinlet&repo=PHP-Interview-QA&show_icons=true&theme=radical)](https://github.com/colinlet/PHP-Interview-QA) | [![](https://github-readme-stats.vercel.app/api/pin/?username=wudi&repo=PHP-Interview-Best-Practices-in-China&show_icons=true&theme=radical)](https://github.com/wudi/PHP-Interview-Best-Practices-in-China) |      |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 
 ## Python
@@ -150,25 +147,13 @@
 
 ## 前端
 
-| 资源链接                                                     | 资源说明                                                     |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| https://github.com/Advanced-Frontend/Daily-Interview-Question | 每天搞定一道前端大厂面试题                                   |
-| https://github.com/haizlin/fe-interview                      | 前端面试每日 3+1，以面试题来驱动学习                         |
-| https://github.com/qiu-deqing/FE-interview                   | 前端面试题和答案                                             |
-| https://github.com/helloqingfeng/Awsome-Front-End-learning-resource | 前端资源汇总仓库（包括前端学习、开发资源、求职面试等）       |
-| https://github.com/FrontEndGitHub/FrontEndGitHub             | 前端资源汇总仓库                                             |
-| https://github.com/paddingme/Front-end-Web-Development-Interview-Question | 前端开发面试题大收集，前端面试集锦                           |
-| https://github.com/CavsZhouyou/Front-End-Interview-Notebook  | 前端面试复习笔记                                             |
-| https://github.com/lgwebdream/FE-Interview                   | 前端面试，独有前端面试题详解，前端面试刷题必备               |
-| https://github.com/airuikun/Weekly-FE-Interview              | 每周十道前端大厂面试题                                       |
-| https://github.com/azl397985856/fe-interview                 | 宇宙最强的前端面试指南                                       |
-| https://github.com/poetries/FE-Interview-Questions           | 前端面试常考问题整理，按模块知识点分类                       |
-| https://github.com/coffe1891/frontend-hard-mode-interview    | 有关于 JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享 |
-| https://github.com/yisainan/web-interview                    | 收集整理全网面试题及面试技巧                                 |
-| https://github.com/pwstrick/daily                            | 一份搜集的前端面试题目清单、面试相关以及各类学习的资料       |
-| https://github.com/jirengu/frontend-interview                | 前端笔试面试题题库                                           |
-| https://github.com/KieSun/fucking-frontend                   | 一网打尽前端面试、学习路径、优秀好文等各类内容               |
-| https://github.com/FEGuideTeam/FEGuide                       | 前端面试题+前端学习+面试指南                                 |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=Advanced-Frontend&repo=Daily-Interview-Question&show_icons=true&theme=radical)](https://github.com/Advanced-Frontend/Daily-Interview-Question) | [![](https://github-readme-stats.vercel.app/api/pin/?username=haizlin&repo=fe-interview&show_icons=true&theme=radical)](https://github.com/haizlin/fe-interview) | [![](https://github-readme-stats.vercel.app/api/pin/?username=qiu-deqing&repo=FE-interview&show_icons=true&theme=radical)](https://github.com/qiu-deqing/FE-interview) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=helloqingfeng&repo=Awsome-Front-End-learning-resource&show_icons=true&theme=radical)](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource) | [![](https://github-readme-stats.vercel.app/api/pin/?username=FrontEndGitHub&repo=FrontEndGitHub&show_icons=true&theme=radical)](https://github.com/FrontEndGitHub/FrontEndGitHub) | [![](https://github-readme-stats.vercel.app/api/pin/?username=paddingme&repo=Front-end-Web-Development-Interview-Question&show_icons=true&theme=radical)](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=CavsZhouyou&repo=Front-End-Interview-Notebook&show_icons=true&theme=radical)](https://github.com/CavsZhouyou/Front-End-Interview-Notebook) | [![](https://github-readme-stats.vercel.app/api/pin/?username=lgwebdream&repo=FE-Interview&show_icons=true&theme=radical)](https://github.com/lgwebdream/FE-Interview) | [![](https://github-readme-stats.vercel.app/api/pin/?username=airuikun&repo=Weekly-FE-Interview&show_icons=true&theme=radical)](https://github.com/airuikun/Weekly-FE-Interview) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=azl397985856&repo=fe-interview&show_icons=true&theme=radical)](https://github.com/azl397985856/fe-interview) | [![](https://github-readme-stats.vercel.app/api/pin/?username=poetries&repo=FE-Interview-Questions&show_icons=true&theme=radical)](https://github.com/poetries/FE-Interview-Questions) | [![](https://github-readme-stats.vercel.app/api/pin/?username=coffe1891&repo=frontend-hard-mode-interview&show_icons=true&theme=radical)](https://github.com/coffe1891/frontend-hard-mode-interview) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=yisainan&repo=web-interview&show_icons=true&theme=radical)](https://github.com/yisainan/web-interview) | [![](https://github-readme-stats.vercel.app/api/pin/?username=pwstrick&repo=daily&show_icons=true&theme=radical)](https://github.com/pwstrick/daily) | [![](https://github-readme-stats.vercel.app/api/pin/?username=jirengu&repo=frontend-interview&show_icons=true&theme=radical)](https://github.com/jirengu/frontend-interview) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=FEGuideTeam&repo=FEGuide&show_icons=true&theme=radical)](https://github.com/FEGuideTeam/FEGuide) | [![](https://github-readme-stats.vercel.app/api/pin/?username=KieSun&repo=fucking-frontend&show_icons=true&theme=radical)](https://github.com/KieSun/fucking-frontend) |                                                              |
 
 ## 人工智能
 
