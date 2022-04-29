@@ -57,9 +57,8 @@
 
 ## 面试
 
-|                                                              |                                                              |                                                              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![CS-Notes](https://github-readme-stats.vercel.app/api/pin/?username=CyC2018&repo=CS-Notes&show_icons=true&theme=radical)](https://github.com/CyC2018/CS-Notes) | [![Waking-Up](https://github-readme-stats.vercel.app/api/pin/?username=wolverinn&repo=Waking-Up&show_icons=true&theme=radical)](https://github.com/wolverinn/Waking-Up) | [![interview_internal_reference](https://github-readme-stats.vercel.app/api/pin/?username=0voice&repo=interview_internal_reference&show_icons=true&theme=radical)](https://github.com/0voice/interview_internal_reference) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![fullstack-tutorial](https://github-readme-stats.vercel.app/api/pin/?username=frank-lam&repo=fullstack-tutorial&show_icons=true&theme=radical)](https://github.com/frank-lam/fullstack-tutorial) | [![interviews](https://github-readme-stats.vercel.app/api/pin/?username=kdn251&repo=interviews&show_icons=true&theme=radical)](https://github.com/kdn251/interviews) | [![The-Art-Of-Programming-By-July](https://github-readme-stats.vercel.app/api/pin/?username=julycoding&repo=The-Art-Of-Programming-By-July&show_icons=true&theme=radical)](https://github.com/julycoding/The-Art-Of-Programming-By-July) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=yifeikong&repo=reverse-interview-zh&show_icons=true&theme=radical)](https://github.com/yifeikong/reverse-interview-zh) | [![](https://github-readme-stats.vercel.app/api/pin/?username=HIT-Alibaba&repo=interview&show_icons=true&theme=radical)](https://github.com/HIT-Alibaba/interview) | [![](https://github-readme-stats.vercel.app/api/pin/?username=sty945&repo=bank_interview&show_icons=true&theme=radical)](https://github.com/sty945/bank_interview) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=resumejob&repo=interview-questions&show_icons=true&theme=radical)](https://github.com/resumejob/interview-questions) | [![](https://github-readme-stats.vercel.app/api/pin/?username=aylei&repo=interview&show_icons=true&theme=radical)](https://github.com/aylei/interview) | [![](https://github-readme-stats.vercel.app/api/pin/?username=chucheng92&repo=EasyJob&show_icons=true&theme=radical)](https://github.com/chucheng92/EasyJob) |
@@ -77,23 +76,12 @@
 
 
 
-| 资源链接                                                     | 资源说明                                   |
-| ------------------------------------------------------------ | ------------------------------------------ |
-| https://github.com/Moosphan/Android-Daily-Interview          | 每工作日更新一道 Android 面试题            |
-| https://github.com/AweiLoveAndroid/CommonDevKnowledge        | 史上最全的 BAT 大厂Android 面试题汇集      |
-| https://github.com/stormzhang/android-interview-questions-cn | 最全面的高质量 Android 面试指南            |
-| https://github.com/jeanboydev/Android-ReadTheFuckingSourceCode | 日常的开发技巧，开发中遇到的技术重点、难点 |
-| https://github.com/yangkun19921001/Blog                      | Android 面试宝典                           |
-| https://github.com/linsir6/AndroidNote                       | Android 基础、进阶知识                     |
-
-
-
 ## C/C++
 
-| 资源链接                             | 资源说明                    |
-| ------------------------------------ | --------------------------- |
-| https://github.com/huihut/interview  | C/C++ 技术面试基础知识总结  |
-| https://github.com/Ewenwan/ShiYanLou | C 、C++、汇编语言等面试总结 |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=huihut&repo=interview&show_icons=true&theme=radical)](https://github.com/huihut/interview) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Ewenwan&repo=ShiYanLou&show_icons=true&theme=radical)](https://github.com/Ewenwan/ShiYanLou) |      |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+
+
 
 ## iOS
 
