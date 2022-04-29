@@ -57,27 +57,29 @@
 
 ## 面试
 
-| 资源链接                                                     | 资源说明                                                |
-| ------------------------------------------------------------ | ------------------------------------------------------- |
-| https://github.com/CyC2018/CS-Notes                          | 技术面试必备基础知识                                    |
-| https://github.com/wolverinn/Waking-Up                       | 计算机基础面试问题全面总结                              |
-| https://github.com/frank-lam/fullstack-tutorial              | 后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试 |
-| https://github.com/0voice/interview_internal_reference       | 阿里、腾讯、百度、头条、美团等技术面试题目及答案        |
-| https://github.com/kdn251/interviews                         | 软件工程技术面试个人指南                                |
-| https://github.com/julycoding/The-Art-Of-Programming-By-July | 编程之法：面试和算法心得                                |
-| https://github.com/yifeikong/reverse-interview-zh            | 技术面试最后反问面试官的话                              |
-| https://github.com/HIT-Alibaba/interview                     | 笔试面试知识整理                                        |
-| https://github.com/sty945/bank_interview                     | 银行笔试面试经验分享及资料分享                          |
-| https://github.com/resumejob/interview-questions             | 腾讯，阿里，字节跳动，Shopee，美团，滴滴高频面试题      |
-| https://github.com/aylei/interview                           | 19 年初的后端社招面试经历                               |
-| https://github.com/ferrari014/EasyJob                        | 2021 互联网求职面试知识复习                             |
-| https://github.com/CodingDocs/programmer-advancement         | 程序员应该有的一些好习惯 + 面试必知事项！               |
-| https://github.com/conanhujinming/tips_for_interview         | 一些面试心得                                            |
-| https://github.com/shfshanyue/Daily-Question                 | 互联网大厂内推及大厂面经整理                            |
-| https://github.com/monklof/Back-End-Developer-Interview-Questions | 后端开发面试题                                          |
-| https://github.com/zhengjianglong915/note-of-interview       | 互联网面试笔记                                          |
-| https://github.com/lengyue1024/BAT_interviews                | 最新 BAT 面试题                                         |
-| https://github.com/FangWW/Document                           | 各种编程学习面试资料                                    |
+|                                                              |                                                              |                                                              |                                                              |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![CS-Notes](https://github-readme-stats.vercel.app/api/pin/?username=CyC2018&repo=CS-Notes&show_icons=true&theme=radical)](https://github.com/CyC2018/CS-Notes) | [![Waking-Up](https://github-readme-stats.vercel.app/api/pin/?username=wolverinn&repo=Waking-Up&show_icons=true&theme=radical)](https://github.com/wolverinn/Waking-Up) | [![interview_internal_reference](https://github-readme-stats.vercel.app/api/pin/?username=0voice&repo=interview_internal_reference&show_icons=true&theme=radical)](https://github.com/0voice/interview_internal_reference) | [![fullstack-tutorial](https://github-readme-stats.vercel.app/api/pin/?username=frank-lam&repo=fullstack-tutorial&show_icons=true&theme=radical)](https://github.com/frank-lam/fullstack-tutorial) |
+
+
+
+| 资源链接                                                     | 资源说明                                           |
+| ------------------------------------------------------------ | -------------------------------------------------- |
+| https://github.com/kdn251/interviews                         | 软件工程技术面试个人指南                           |
+| https://github.com/julycoding/The-Art-Of-Programming-By-July | 编程之法：面试和算法心得                           |
+| https://github.com/yifeikong/reverse-interview-zh            | 技术面试最后反问面试官的话                         |
+| https://github.com/HIT-Alibaba/interview                     | 笔试面试知识整理                                   |
+| https://github.com/sty945/bank_interview                     | 银行笔试面试经验分享及资料分享                     |
+| https://github.com/resumejob/interview-questions             | 腾讯，阿里，字节跳动，Shopee，美团，滴滴高频面试题 |
+| https://github.com/aylei/interview                           | 19 年初的后端社招面试经历                          |
+| https://github.com/ferrari014/EasyJob                        | 2021 互联网求职面试知识复习                        |
+| https://github.com/CodingDocs/programmer-advancement         | 程序员应该有的一些好习惯 + 面试必知事项！          |
+| https://github.com/conanhujinming/tips_for_interview         | 一些面试心得                                       |
+| https://github.com/shfshanyue/Daily-Question                 | 互联网大厂内推及大厂面经整理                       |
+| https://github.com/monklof/Back-End-Developer-Interview-Questions | 后端开发面试题                                     |
+| https://github.com/zhengjianglong915/note-of-interview       | 互联网面试笔记                                     |
+| https://github.com/lengyue1024/BAT_interviews                | 最新 BAT 面试题                                    |
+| https://github.com/FangWW/Document                           | 各种编程学习面试资料                               |
 
 ## Android
 
