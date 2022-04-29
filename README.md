@@ -93,11 +93,10 @@
 
 ## Go
 
-| 资源链接                                  | 资源说明                                         |
-| ----------------------------------------- | ------------------------------------------------ |
-| https://github.com/lifei6671/interview-go | golang 面试题集合                                |
-| https://github.com/pibigstar/go-demo      | Go 语言实例教程从入门到进阶                      |
-| https://github.com/ehang-io/nps           | 一款轻量级、高性能、功能强大的内网穿透代理服务器 |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=lifei6671&repo=interview-go&show_icons=true&theme=radical)](https://github.com/lifei6671/interview-go) | [![](https://github-readme-stats.vercel.app/api/pin/?username=pibigstar&repo=go-demo&show_icons=true&theme=radical)](https://github.com/pibigstar/go-demo) | [![](https://github-readme-stats.vercel.app/api/pin/?username=ehang-io&repo=nps&show_icons=true&theme=radical)](https://github.com/ehang-io/nps) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+
 
 ## Java
 
