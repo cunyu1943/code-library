@@ -95,6 +95,9 @@
 
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=lifei6671&repo=interview-go&show_icons=true&theme=radical)](https://github.com/lifei6671/interview-go) | [![](https://github-readme-stats.vercel.app/api/pin/?username=pibigstar&repo=go-demo&show_icons=true&theme=radical)](https://github.com/pibigstar/go-demo) | [![](https://github-readme-stats.vercel.app/api/pin/?username=ehang-io&repo=nps&show_icons=true&theme=radical)](https://github.com/ehang-io/nps) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=unknwon&repo=the-way-to-go_ZH_CN&show_icons=true&theme=radical)](https://github.com/unknwon/the-way-to-go_ZH_CN) | [![](https://github-readme-stats.vercel.app/api/pin/?username=marmotedu&repo=iam&show_icons=true&theme=radical)](https://github.com/marmotedu/iam) | [![](https://github-readme-stats.vercel.app/api/pin/?username=geektutu&repo=7days-golang&show_icons=true&theme=radical)](https://github.com/geektutu/7days-golang) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=golang-design&repo=go-questions&show_icons=true&theme=radical)](https://github.com/golang-design/go-questions) | [![](https://github-readme-stats.vercel.app/api/pin/?username=geektutu&repo=high-performance-go&show_icons=true&theme=radical)](https://github.com/geektutu/high-performance-go) | [![](https://github-readme-stats.vercel.app/api/pin/?username=xinliangnote&repo=Go&show_icons=true&theme=radical)](https://github.com/xinliangnote/Go) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=flipped-aurora&repo=gin-vue-admin&show_icons=true&theme=radical)](https://github.com/flipped-aurora/gin-vue-admin) | [![](https://github-readme-stats.vercel.app/api/pin/?username=polaris1119&repo=The-Golang-Standard-Library-by-Example&show_icons=true&theme=radical)](https://github.com/polaris1119/The-Golang-Standard-Library-by-Example) | [![](https://github-readme-stats.vercel.app/api/pin/?username=tiger1103&repo=gfast&show_icons=true&theme=radical)](https://github.com/tiger1103/gfast) |
 
 
 
@@ -127,7 +130,8 @@
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=taizilongxu&repo=interview_python&show_icons=true&theme=radical)](https://github.com/taizilongxu/interview_python) | [![](https://github-readme-stats.vercel.app/api/pin/?username=leeguandong&repo=Interview-code-practice-python&show_icons=true&theme=radical)](https://github.com/leeguandong/Interview-code-practice-python) | [![](https://github-readme-stats.vercel.app/api/pin/?username=kenwoodjw&repo=python_interview_question&show_icons=true&theme=radical)](https://github.com/kenwoodjw/python_interview_question) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=jachinlin&repo=geektime_dl&show_icons=true&theme=radical)](https://github.com/jachinlin/geektime_dl) | [![](https://github-readme-stats.vercel.app/api/pin/?username=jackfrued&repo=Python-100-Days&show_icons=true&theme=radical)](https://github.com/jackfrued/Python-100-Days) | [![](https://github-readme-stats.vercel.app/api/pin/?username=testerSunshine&repo=12306&show_icons=true&theme=radical)](https://github.com/testerSunshine/12306) |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=wangshub&repo=Douyin-Bot&show_icons=true&theme=radical)](https://github.com/wangshub/Douyin-Bot) |                                                              |                                                              |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=wangshub&repo=Douyin-Bot&show_icons=true&theme=radical)](https://github.com/wangshub/Douyin-Bot) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Vonng&repo=ddia&show_icons=true&theme=radical)](https://github.com/Vonng/ddia) | [![](https://github-readme-stats.vercel.app/api/pin/?username=wistbean&repo=learn_python3_spider&show_icons=true&theme=radical)](https://github.com/wistbean/learn_python3_spider) |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=WhaleFell&repo=SMSBoom&show_icons=true&theme=radical)](https://github.com/WhaleFell/SMSBoom) | [![](https://github-readme-stats.vercel.app/api/pin/?username=TechXueXi&repo=TechXueXi&show_icons=true&theme=radical)](https://github.com/TechXueXi/TechXueXi) | [![](https://github-readme-stats.vercel.app/api/pin/?username=dataabc&repo=weiboSpider&show_icons=true&theme=radical)](https://github.com/dataabc/weiboSpider) |
 
 ## 前端
 
@@ -141,8 +145,9 @@
 
 ## 人工智能
 
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=amusi&repo=Deep-Learning-Interview-Book&show_icons=true&theme=radical)](https://github.com/amusi/Deep-Learning-Interview-Book) | [![](https://github-readme-stats.vercel.app/api/pin/?username=weslynn&repo=AlphaTree-graphic-deep-neural-network&show_icons=true&theme=radical)](https://github.com/weslynn/AlphaTree-graphic-deep-neural-network) |      |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=amusi&repo=Deep-Learning-Interview-Book&show_icons=true&theme=radical)](https://github.com/amusi/Deep-Learning-Interview-Book) | [![](https://github-readme-stats.vercel.app/api/pin/?username=weslynn&repo=AlphaTree-graphic-deep-neural-network&show_icons=true&theme=radical)](https://github.com/weslynn/AlphaTree-graphic-deep-neural-network) | [![](https://github-readme-stats.vercel.app/api/pin/?username=d2l-ai&repo=d2l-zh&show_icons=true&theme=radical)](https://github.com/d2l-ai/d2l-zh) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=MingchaoZhu&repo=DeepLearning&show_icons=true&theme=radical)](https://github.com/MingchaoZhu/DeepLearning) | [![](https://github-readme-stats.vercel.app/api/pin/?username=Jack-Cherish&repo=Machine-Learning&show_icons=true&theme=radical)](https://github.com/Jack-Cherish/Machine-Learning) |                                                              |
 
 ### CV
 
@@ -153,7 +158,7 @@
 
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=NLP-LOVE&repo=ML-NLP&show_icons=true&theme=radical)](https://github.com/NLP-LOVE/ML-NLP) | [![](https://github-readme-stats.vercel.app/api/pin/?username=DA-southampton&repo=NLP_ability&show_icons=true&theme=radical)](https://github.com/DA-southampton/NLP_ability) | [![](https://github-readme-stats.vercel.app/api/pin/?username=songyingxin&repo=NLPer-Interview&show_icons=true&theme=radical)](https://github.com/songyingxin/NLPer-Interview) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [![](https://github-readme-stats.vercel.app/api/pin/?username=fighting41love&repo=funNLP&show_icons=true&theme=radical)](https://github.com/fighting41love/funNLP) |                                                              |                                                              |
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=fighting41love&repo=funNLP&show_icons=true&theme=radical)](https://github.com/fighting41love/funNLP) | [![](https://github-readme-stats.vercel.app/api/pin/?username=hankcs&repo=HanLP&show_icons=true&theme=radical)](https://github.com/hankcs/HanLP) |                                                              |
 
 ## 数据结构与算法
 
@@ -161,6 +166,13 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=JushuangQiao&repo=Python-Offer&show_icons=true&theme=radical)](https://github.com/JushuangQiao/Python-Offer) | [![](https://github-readme-stats.vercel.app/api/pin/?username=doocs&repo=leetcode&show_icons=true&theme=radical)](https://github.com/doocs/leetcode) | [![](https://github-readme-stats.vercel.app/api/pin/?username=doocs&repo=coding-interview&show_icons=true&theme=radical)](https://github.com/doocs/coding-interview) |
 | [![](https://github-readme-stats.vercel.app/api/pin/?username=UCodeUStory&repo=DataStructure&show_icons=true&theme=radical)](https://github.com/UCodeUStory/DataStructure) |                                                              |                                                              |
+
+## 计算机基础
+
+| [![](https://github-readme-stats.vercel.app/api/pin/?username=PKUFlyingPig&repo=cs-self-learning&show_icons=true&theme=radical)](https://github.com/PKUFlyingPig/cs-self-learning) |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+
+
 
 # Authors
 
